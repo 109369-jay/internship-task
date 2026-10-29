@@ -1,0 +1,1201 @@
+shipment_id,route,transport_mode,carrier,shipment_volume_cbm,weight_kg,distance_km,fuel_price_index,handling_time_hrs,transit_time_hrs,transport_cost_usd,delay_hrs,delivery_status
+SHP-20000,Delhi-Jaipur,Road,FastTrack Express,7.44,560.35,560,107.81,4.69,18.83,1533.15,6.83,Delayed
+SHP-20001,Bengaluru-Chennai,Sea,BlueDart Logistics,10.06,545.74,560,99.54,7.64,30.11,944.23,2.11,Delayed
+SHP-20002,Mumbai-Surat,Road,BlueDart Logistics,17.56,474.04,350,93.28,10.36,17.6,1212.69,5.6,Delayed
+SHP-20003,Mumbai-Surat,Rail,BlueDart Logistics,19.16,468.82,580,94.54,2.85,14.99,1252.26,0.99,Delayed
+SHP-20004,Bengaluru-Chennai,Road,SafeXpress,1.33,568.1,350,92.16,4.05,11.25,1035.57,-0.75,On-Time
+SHP-20005,Kolkata-Patna,Road,BlueDart Logistics,4.96,499.57,310,92.47,5.13,11.14,993.56,-0.86,On-Time
+SHP-20006,Delhi-Jaipur,Road,FastTrack Express,10.65,670.32,280,101.93,6.33,14.17,1096.23,2.17,Delayed
+SHP-20007,Kolkata-Patna,Sea,BlueDart Logistics,25.89,357.91,580,103.68,1.49,24.34,1034.3,-3.66,On-Time
+SHP-20008,Bengaluru-Chennai,Sea,FastTrack Express,14.71,499.29,580,93.73,2.35,26.51,947.03,-1.49,On-Time
+SHP-20009,Mumbai-Surat,Road,BlueDart Logistics,12.43,489.57,350,92.99,1.13,8.25,1149.26,-3.75,On-Time
+SHP-20010,Bengaluru-Chennai,Rail,SafeXpress,12.63,338.45,580,97.49,1.26,10.31,1110.74,-3.69,On-Time
+SHP-20011,Delhi-Jaipur,Rail,BlueDart Logistics,20.52,510.55,310,104.52,6.61,11.04,1013.37,-2.96,On-Time
+SHP-20012,Mumbai-Surat,Rail,FastTrack Express,4.07,413.72,580,92.93,1.73,13.06,1044.56,-0.94,On-Time
+SHP-20013,Kolkata-Patna,Rail,SafeXpress,9.87,444.3,580,96.74,7.5,21.15,1112.46,7.15,Delayed
+SHP-20014,Hyderabad-Pune,Road,FastTrack Express,11.89,492.84,350,107.3,1.06,6.24,1146.76,-5.76,On-Time
+SHP-20015,Mumbai-Surat,Road,BlueDart Logistics,7.89,430.88,310,107.32,4.08,11.96,1001.08,-0.04,On-Time
+SHP-20016,Mumbai-Surat,Road,VRL Freight,12.21,453.4,580,97.87,8.07,21.31,1589.59,9.31,Delayed
+SHP-20017,Bengaluru-Chennai,Sea,FastTrack Express,13.62,263.1,310,96.99,2.17,16.18,667.1,-11.82,On-Time
+SHP-20018,Bengaluru-Chennai,Road,FastTrack Express,13.91,514.0,580,101.4,3.51,14.23,1623.61,2.23,Delayed
+SHP-20019,Mumbai-Surat,Road,BlueDart Logistics,5.62,329.54,280,99.44,7.86,12.45,900.29,0.45,Delayed
+SHP-20020,Bengaluru-Chennai,Road,SafeXpress,16.44,437.02,560,94.89,4.1,15.62,1566.86,3.62,Delayed
+SHP-20021,Delhi-Jaipur,Road,BlueDart Logistics,10.77,331.88,280,101.29,2.02,9.63,942.28,-2.37,On-Time
+SHP-20022,Mumbai-Surat,Road,FastTrack Express,9.63,259.12,580,100.7,3.68,14.41,1423.9,2.41,Delayed
+SHP-20023,Mumbai-Surat,Rail,BlueDart Logistics,17.06,567.56,350,94.59,10.79,18.13,1002.61,4.13,Delayed
+SHP-20024,Mumbai-Surat,Rail,SafeXpress,5.9,851.79,310,95.95,1.82,5.7,963.29,-8.3,On-Time
+SHP-20025,Hyderabad-Pune,Rail,FastTrack Express,26.55,431.73,350,92.37,5.01,12.95,1074.36,-1.05,On-Time
+SHP-20026,Delhi-Jaipur,Rail,BlueDart Logistics,6.75,581.51,580,98.38,1.97,14.66,1177.77,0.66,Delayed
+SHP-20027,Bengaluru-Chennai,Road,FastTrack Express,3.39,501.28,310,104.56,3.99,12.83,1001.61,0.83,Delayed
+SHP-20028,Bengaluru-Chennai,Rail,VRL Freight,7.65,444.34,310,105.08,1.88,7.77,826.44,-6.23,On-Time
+SHP-20029,Delhi-Jaipur,Road,VRL Freight,32.86,638.41,560,100.3,4.88,17.44,1837.69,5.44,Delayed
+SHP-20030,Hyderabad-Pune,Road,SafeXpress,5.73,451.2,580,100.66,2.62,15.41,1504.45,3.41,Delayed
+SHP-20031,Kolkata-Patna,Road,VRL Freight,8.39,572.55,350,96.98,1.24,7.54,1195.44,-4.46,On-Time
+SHP-20032,Delhi-Jaipur,Rail,VRL Freight,15.65,684.61,310,101.33,1.35,7.41,979.16,-6.59,On-Time
+SHP-20033,Delhi-Jaipur,Road,SafeXpress,10.29,360.57,580,100.48,5.2,17.09,1482.48,5.09,Delayed
+SHP-20034,Hyderabad-Pune,Road,FastTrack Express,3.73,630.37,350,99.27,5.73,14.35,1121.16,2.35,Delayed
+SHP-20035,Delhi-Jaipur,Road,VRL Freight,13.82,297.36,350,97.83,4.27,13.6,1091.43,1.6,Delayed
+SHP-20036,Kolkata-Patna,Air,VRL Freight,3.28,293.28,560,98.96,3.13,5.38,3390.1,1.38,Delayed
+SHP-20037,Kolkata-Patna,Sea,FastTrack Express,11.16,431.14,580,106.9,2.07,24.03,901.81,-3.97,On-Time
+SHP-20038,Delhi-Jaipur,Air,VRL Freight,9.84,518.14,310,102.86,10.11,10.93,2212.81,6.93,Delayed
+SHP-20039,Hyderabad-Pune,Sea,BlueDart Logistics,8.38,479.96,350,102.3,1.2,13.23,717.48,-14.77,On-Time
+SHP-20040,Mumbai-Surat,Road,FastTrack Express,44.92,352.9,310,93.21,2.57,7.86,1408.71,-4.14,On-Time
+SHP-20041,Mumbai-Surat,Road,BlueDart Logistics,39.24,532.23,560,105.69,1.49,13.68,1906.37,1.68,Delayed
+SHP-20042,Bengaluru-Chennai,Road,BlueDart Logistics,15.65,372.39,580,96.12,3.94,18.24,1561.94,6.24,Delayed
+SHP-20043,Kolkata-Patna,Road,SafeXpress,8.3,358.59,280,96.88,1.34,7.61,932.78,-4.39,On-Time
+SHP-20044,Mumbai-Surat,Air,BlueDart Logistics,15.87,457.06,560,107.08,1.39,2.37,3646.49,-1.63,On-Time
+SHP-20045,Mumbai-Surat,Air,BlueDart Logistics,14.99,563.49,310,99.55,1.66,4.79,2270.35,0.79,Delayed
+SHP-20046,Bengaluru-Chennai,Road,FastTrack Express,5.23,488.69,310,107.39,1.28,9.04,1065.11,-2.96,On-Time
+SHP-20047,Mumbai-Surat,Sea,VRL Freight,8.63,561.61,280,93.9,2.58,11.88,683.34,-16.12,On-Time
+SHP-20048,Bengaluru-Chennai,Rail,SafeXpress,4.65,507.16,280,94.81,3.48,10.16,756.48,-3.84,On-Time
+SHP-20049,Delhi-Jaipur,Road,FastTrack Express,3.78,209.07,280,97.84,3.13,8.86,801.94,-3.14,On-Time
+SHP-20050,Bengaluru-Chennai,Air,SafeXpress,7.31,410.3,310,94.74,3.3,2.15,2175.76,-1.85,On-Time
+SHP-20051,Delhi-Jaipur,Rail,BlueDart Logistics,8.68,333.57,280,98.76,3.85,9.59,743.3,-4.41,On-Time
+SHP-20052,Mumbai-Surat,Rail,FastTrack Express,5.55,375.25,580,99.14,3.45,14.63,1019.96,0.63,Delayed
+SHP-20053,Mumbai-Surat,Road,VRL Freight,17.45,510.39,560,107.71,5.31,15.66,1622.6,3.66,Delayed
+SHP-20054,Bengaluru-Chennai,Road,FastTrack Express,13.83,400.97,350,97.99,7.86,18.13,1123.77,6.13,Delayed
+SHP-20055,Mumbai-Surat,Rail,SafeXpress,8.45,523.79,310,95.21,1.42,5.92,884.98,-8.08,On-Time
+SHP-20056,Delhi-Jaipur,Road,VRL Freight,14.69,294.1,560,94.21,1.14,12.63,1451.79,0.63,Delayed
+SHP-20057,Mumbai-Surat,Road,SafeXpress,16.88,357.97,280,98.68,6.55,10.8,1055.51,-1.2,On-Time
+SHP-20058,Mumbai-Surat,Road,SafeXpress,6.97,454.41,560,101.66,3.48,13.84,1478.55,1.84,Delayed
+SHP-20059,Mumbai-Surat,Air,FastTrack Express,13.49,405.05,280,100.65,3.57,7.36,2047.57,3.36,Delayed
+SHP-20060,Delhi-Jaipur,Road,BlueDart Logistics,4.41,477.0,310,96.6,2.03,6.94,984.67,-5.06,On-Time
+SHP-20061,Kolkata-Patna,Rail,SafeXpress,3.06,617.28,580,103.18,2.08,11.68,1114.18,-2.32,On-Time
+SHP-20062,Hyderabad-Pune,Road,FastTrack Express,7.97,383.46,280,104.69,3.12,8.22,933.53,-3.78,On-Time
+SHP-20063,Delhi-Jaipur,Road,VRL Freight,14.07,238.42,350,102.2,2.22,6.71,1061.97,-5.29,On-Time
+SHP-20064,Delhi-Jaipur,Road,BlueDart Logistics,11.13,379.01,350,95.55,5.94,12.65,1099.34,0.65,Delayed
+SHP-20065,Bengaluru-Chennai,Road,VRL Freight,7.17,563.68,280,105.53,5.52,11.85,1014.25,-0.15,On-Time
+SHP-20066,Delhi-Jaipur,Rail,FastTrack Express,2.51,711.58,310,101.38,4.56,10.1,883.3,-3.9,On-Time
+SHP-20067,Mumbai-Surat,Rail,SafeXpress,6.8,398.68,580,93.15,5.57,13.42,1034.97,-0.58,On-Time
+SHP-20068,Mumbai-Surat,Road,BlueDart Logistics,10.5,572.38,560,96.94,1.22,15.21,1567.88,3.21,Delayed
+SHP-20069,Bengaluru-Chennai,Road,VRL Freight,11.97,479.94,310,107.1,4.4,9.31,1102.0,-2.69,On-Time
+SHP-20070,Kolkata-Patna,Sea,VRL Freight,13.28,503.77,280,105.49,7.4,18.61,775.6,-9.39,On-Time
+SHP-20071,Bengaluru-Chennai,Road,BlueDart Logistics,3.56,419.48,580,92.03,8.86,21.75,1448.89,9.75,Delayed
+SHP-20072,Bengaluru-Chennai,Road,VRL Freight,12.52,400.07,310,99.57,6.14,14.14,1080.83,2.14,Delayed
+SHP-20073,Delhi-Jaipur,Rail,FastTrack Express,19.29,583.24,560,107.18,3.11,13.38,1300.09,-0.62,On-Time
+SHP-20074,Bengaluru-Chennai,Sea,VRL Freight,15.41,425.03,350,103.4,1.24,16.07,796.17,-11.93,On-Time
+SHP-20075,Mumbai-Surat,Road,FastTrack Express,15.16,444.15,560,95.54,4.85,17.57,1552.1,5.57,Delayed
+SHP-20076,Bengaluru-Chennai,Road,SafeXpress,5.34,422.13,560,97.2,3.01,15.69,1426.86,3.69,Delayed
+SHP-20077,Delhi-Jaipur,Road,FastTrack Express,14.95,615.06,350,98.61,2.63,11.96,1243.76,-0.04,On-Time
+SHP-20078,Bengaluru-Chennai,Rail,VRL Freight,24.03,378.46,280,94.48,3.23,7.01,963.46,-6.99,On-Time
+SHP-20079,Mumbai-Surat,Road,FastTrack Express,3.52,515.63,310,104.93,1.59,9.7,1038.88,-2.3,On-Time
+SHP-20080,Kolkata-Patna,Road,VRL Freight,5.21,460.16,350,96.31,1.8,9.16,1054.56,-2.84,On-Time
+SHP-20081,Bengaluru-Chennai,Air,FastTrack Express,7.85,444.27,580,92.72,4.55,6.82,3641.11,2.82,Delayed
+SHP-20082,Bengaluru-Chennai,Road,FastTrack Express,9.93,631.19,560,100.86,3.04,13.06,1567.54,1.06,Delayed
+SHP-20083,Delhi-Jaipur,Sea,VRL Freight,11.25,574.56,560,102.59,4.13,27.66,974.14,-0.34,On-Time
+SHP-20084,Hyderabad-Pune,Air,VRL Freight,9.54,328.73,580,92.54,2.78,5.03,3603.99,1.03,Delayed
+SHP-20085,Mumbai-Surat,Road,VRL Freight,5.94,494.69,350,100.21,2.16,11.51,1117.54,-0.49,On-Time
+SHP-20086,Mumbai-Surat,Rail,BlueDart Logistics,5.02,263.18,560,92.64,1.44,9.16,921.88,-4.84,On-Time
+SHP-20087,Mumbai-Surat,Road,BlueDart Logistics,14.8,540.14,310,106.31,2.96,11.09,1162.18,-0.91,On-Time
+SHP-20088,Mumbai-Surat,Air,BlueDart Logistics,15.3,363.15,310,93.02,3.88,4.69,2232.38,0.69,Delayed
+SHP-20089,Hyderabad-Pune,Road,VRL Freight,6.68,346.46,560,92.7,1.53,12.85,1420.96,0.85,Delayed
+SHP-20090,Mumbai-Surat,Sea,VRL Freight,7.01,444.86,310,106.52,3.49,15.13,695.29,-12.87,On-Time
+SHP-20091,Bengaluru-Chennai,Road,BlueDart Logistics,9.4,356.31,280,103.08,8.59,12.12,938.12,0.12,Delayed
+SHP-20092,Bengaluru-Chennai,Road,BlueDart Logistics,51.06,302.34,310,105.25,1.17,7.33,1483.09,-4.67,On-Time
+SHP-20093,Delhi-Jaipur,Road,BlueDart Logistics,23.11,463.87,350,104.39,4.22,12.06,1282.59,0.06,Delayed
+SHP-20094,Mumbai-Surat,Rail,SafeXpress,8.56,238.37,350,106.69,4.27,10.25,754.88,-3.75,On-Time
+SHP-20095,Kolkata-Patna,Rail,BlueDart Logistics,12.05,406.93,580,96.19,1.74,12.47,1137.88,-1.53,On-Time
+SHP-20096,Delhi-Jaipur,Road,BlueDart Logistics,24.1,388.07,280,93.63,1.46,6.32,1122.47,-5.68,On-Time
+SHP-20097,Bengaluru-Chennai,Air,FastTrack Express,19.64,413.46,310,107.88,10.92,14.75,2323.67,10.75,Delayed
+SHP-20098,Bengaluru-Chennai,Road,FastTrack Express,9.57,590.32,580,97.12,1.17,13.3,1592.38,1.3,Delayed
+SHP-20099,Bengaluru-Chennai,Road,FastTrack Express,11.81,311.49,580,103.14,3.85,15.82,1480.57,3.82,Delayed
+SHP-20100,Bengaluru-Chennai,Rail,VRL Freight,23.57,570.57,280,107.87,6.93,12.88,1017.57,-1.12,On-Time
+SHP-20101,Delhi-Jaipur,Road,BlueDart Logistics,15.03,480.88,560,98.34,1.56,13.93,1620.57,1.93,Delayed
+SHP-20102,Delhi-Jaipur,Road,FastTrack Express,11.88,402.76,280,104.64,2.74,9.57,1004.42,-2.43,On-Time
+SHP-20103,Mumbai-Surat,Road,BlueDart Logistics,22.38,448.21,560,92.51,2.37,13.99,1653.28,1.99,Delayed
+SHP-20104,Hyderabad-Pune,Road,BlueDart Logistics,7.53,656.26,350,94.06,6.05,15.22,1189.04,3.22,Delayed
+SHP-20105,Mumbai-Surat,Road,FastTrack Express,7.77,525.15,350,101.48,1.29,11.19,1114.8,-0.81,On-Time
+SHP-20106,Mumbai-Surat,Road,SafeXpress,13.52,286.89,560,103.44,1.37,13.23,1434.61,1.23,Delayed
+SHP-20107,Mumbai-Surat,Road,FastTrack Express,13.83,650.97,350,106.05,1.06,8.22,1253.64,-3.78,On-Time
+SHP-20108,Hyderabad-Pune,Road,VRL Freight,17.46,256.34,560,99.25,16.57,27.57,1484.76,15.57,Delayed
+SHP-20109,Delhi-Jaipur,Road,SafeXpress,7.85,626.08,580,101.31,5.84,18.63,1569.69,6.63,Delayed
+SHP-20110,Bengaluru-Chennai,Road,SafeXpress,14.22,469.29,560,92.65,9.02,20.42,1540.35,8.42,Delayed
+SHP-20111,Hyderabad-Pune,Road,SafeXpress,9.68,562.82,280,97.09,17.54,22.66,1024.52,10.66,Delayed
+SHP-20112,Bengaluru-Chennai,Rail,FastTrack Express,15.67,475.17,280,93.94,5.38,8.71,868.88,-5.29,On-Time
+SHP-20113,Delhi-Jaipur,Rail,SafeXpress,7.85,268.2,560,104.99,1.36,11.67,1002.49,-2.33,On-Time
+SHP-20114,Hyderabad-Pune,Road,VRL Freight,18.64,540.07,560,102.12,1.74,13.63,1666.02,1.63,Delayed
+SHP-20115,Bengaluru-Chennai,Air,FastTrack Express,12.66,425.01,310,106.85,1.12,1.5,2201.6,-2.5,On-Time
+SHP-20116,Mumbai-Surat,Road,BlueDart Logistics,6.5,438.31,580,105.82,1.29,12.79,1484.65,0.79,Delayed
+SHP-20117,Kolkata-Patna,Road,VRL Freight,13.88,574.47,580,96.19,1.2,13.01,1658.91,1.01,Delayed
+SHP-20118,Kolkata-Patna,Road,VRL Freight,13.66,655.45,350,101.42,1.31,8.86,1274.7,-3.14,On-Time
+SHP-20119,Delhi-Jaipur,Road,SafeXpress,15.4,399.15,580,92.24,3.4,15.77,1573.79,3.77,Delayed
+SHP-20120,Mumbai-Surat,Road,FastTrack Express,9.17,278.34,280,103.28,3.65,11.55,926.63,-0.45,On-Time
+SHP-20121,Bengaluru-Chennai,Road,BlueDart Logistics,8.82,461.32,310,97.73,1.67,6.52,1019.03,-5.48,On-Time
+SHP-20122,Kolkata-Patna,Air,VRL Freight,13.24,202.07,310,98.9,3.52,7.4,2164.74,3.4,Delayed
+SHP-20123,Delhi-Jaipur,Road,VRL Freight,24.36,379.19,310,98.81,1.25,9.86,1187.5,-2.14,On-Time
+SHP-20124,Delhi-Jaipur,Road,BlueDart Logistics,12.47,588.02,560,107.1,2.2,16.35,1587.66,4.35,Delayed
+SHP-20125,Delhi-Jaipur,Road,FastTrack Express,16.09,508.18,580,105.22,4.71,16.27,1650.6,4.27,Delayed
+SHP-20126,Mumbai-Surat,Road,BlueDart Logistics,7.8,541.51,560,101.93,2.61,16.51,1496.7,4.51,Delayed
+SHP-20127,Bengaluru-Chennai,Air,BlueDart Logistics,10.49,601.87,280,93.02,1.98,2.7,2106.9,-1.3,On-Time
+SHP-20128,Delhi-Jaipur,Road,BlueDart Logistics,4.41,611.31,560,98.78,1.68,13.54,1507.36,1.54,Delayed
+SHP-20129,Bengaluru-Chennai,Road,VRL Freight,13.68,476.53,280,99.63,1.07,8.35,1036.89,-3.65,On-Time
+SHP-20130,Delhi-Jaipur,Road,BlueDart Logistics,16.64,553.84,580,104.52,10.13,25.09,1678.75,13.09,Delayed
+SHP-20131,Delhi-Jaipur,Air,FastTrack Express,9.56,454.29,560,103.22,1.12,4.97,3609.56,0.97,Delayed
+SHP-20132,Mumbai-Surat,Road,FastTrack Express,14.11,427.09,280,95.2,3.14,9.45,1039.8,-2.55,On-Time
+SHP-20133,Hyderabad-Pune,Road,SafeXpress,10.97,508.97,580,104.16,2.1,15.28,1585.61,3.28,Delayed
+SHP-20134,Mumbai-Surat,Air,BlueDart Logistics,12.19,387.17,560,98.84,1.11,2.22,3543.25,-1.78,On-Time
+SHP-20135,Delhi-Jaipur,Road,SafeXpress,36.87,397.69,280,103.95,7.37,17.14,1297.42,5.14,Delayed
+SHP-20136,Bengaluru-Chennai,Rail,FastTrack Express,18.53,549.04,280,98.37,4.37,10.61,931.36,-3.39,On-Time
+SHP-20137,Mumbai-Surat,Rail,BlueDart Logistics,24.02,633.92,280,101.99,9.76,14.82,1030.49,0.82,Delayed
+SHP-20138,Kolkata-Patna,Road,BlueDart Logistics,15.97,409.17,580,101.01,1.91,13.6,1572.54,1.6,Delayed
+SHP-20139,Mumbai-Surat,Road,BlueDart Logistics,9.56,592.49,310,94.06,2.72,8.11,1082.21,-3.89,On-Time
+SHP-20140,Bengaluru-Chennai,Rail,SafeXpress,9.65,607.3,560,103.99,3.22,14.71,1184.31,0.71,Delayed
+SHP-20141,Mumbai-Surat,Road,FastTrack Express,11.27,577.28,280,107.99,4.89,10.69,1068.6,-1.31,On-Time
+SHP-20142,Bengaluru-Chennai,Road,BlueDart Logistics,1.61,493.61,280,99.45,6.5,12.58,900.96,0.58,Delayed
+SHP-20143,Kolkata-Patna,Rail,FastTrack Express,24.51,338.58,280,95.14,2.02,8.97,954.05,-5.03,On-Time
+SHP-20144,Bengaluru-Chennai,Air,FastTrack Express,14.58,673.18,280,95.19,1.07,1.5,2171.14,-2.5,On-Time
+SHP-20145,Mumbai-Surat,Road,VRL Freight,7.44,399.72,350,105.97,1.25,8.52,1116.87,-3.48,On-Time
+SHP-20146,Hyderabad-Pune,Air,FastTrack Express,20.6,501.22,560,105.59,5.93,5.48,3709.5,1.48,Delayed
+SHP-20147,Bengaluru-Chennai,Road,FastTrack Express,20.45,244.9,280,102.05,3.23,11.44,1038.78,-0.56,On-Time
+SHP-20148,Delhi-Jaipur,Road,VRL Freight,10.84,400.95,560,98.42,18.06,29.54,1496.86,17.54,Delayed
+SHP-20149,Kolkata-Patna,Rail,BlueDart Logistics,9.67,328.5,580,96.92,1.46,11.78,1042.85,-2.22,On-Time
+SHP-20150,Mumbai-Surat,Air,BlueDart Logistics,6.51,338.72,560,107.46,5.8,6.13,3482.93,2.13,Delayed
+SHP-20151,Kolkata-Patna,Road,VRL Freight,6.59,542.26,280,94.62,12.79,20.05,985.6,8.05,Delayed
+SHP-20152,Mumbai-Surat,Road,VRL Freight,15.54,473.43,280,95.59,3.66,10.73,1081.27,-1.27,On-Time
+SHP-20153,Kolkata-Patna,Air,BlueDart Logistics,19.65,552.58,310,98.23,1.5,3.39,2367.0,-0.61,On-Time
+SHP-20154,Mumbai-Surat,Road,FastTrack Express,9.17,445.46,560,102.5,2.28,15.24,1506.36,3.24,Delayed
+SHP-20155,Bengaluru-Chennai,Air,FastTrack Express,2.7,239.69,580,106.09,1.53,1.5,3482.8,-2.5,On-Time
+SHP-20156,Hyderabad-Pune,Rail,BlueDart Logistics,4.43,295.35,580,92.63,1.51,10.36,1017.01,-3.64,On-Time
+SHP-20157,Hyderabad-Pune,Air,SafeXpress,16.53,388.25,310,95.27,1.33,1.5,2267.29,-2.5,On-Time
+SHP-20158,Mumbai-Surat,Rail,BlueDart Logistics,10.7,345.74,580,100.01,2.19,13.22,1063.94,-0.78,On-Time
+SHP-20159,Hyderabad-Pune,Road,SafeXpress,10.3,510.42,560,94.76,4.6,16.74,1538.66,4.74,Delayed
+SHP-20160,Delhi-Jaipur,Rail,VRL Freight,15.33,199.4,310,93.47,1.74,7.75,772.05,-6.25,On-Time
+SHP-20161,Hyderabad-Pune,Road,FastTrack Express,6.24,314.62,310,106.81,9.42,16.19,912.97,4.19,Delayed
+SHP-20162,Delhi-Jaipur,Road,SafeXpress,2.43,503.48,310,98.3,2.16,8.43,957.21,-3.57,On-Time
+SHP-20163,Mumbai-Surat,Road,SafeXpress,7.69,585.87,350,95.74,7.78,14.4,1161.42,2.4,Delayed
+SHP-20164,Bengaluru-Chennai,Road,BlueDart Logistics,4.29,607.93,560,101.3,3.75,15.72,1496.37,3.72,Delayed
+SHP-20165,Delhi-Jaipur,Road,BlueDart Logistics,11.52,342.51,560,100.01,1.09,13.46,1446.3,1.46,Delayed
+SHP-20166,Bengaluru-Chennai,Road,FastTrack Express,9.19,484.2,310,93.71,1.43,9.43,1041.11,-2.57,On-Time
+SHP-20167,Delhi-Jaipur,Air,SafeXpress,11.14,382.34,350,102.57,7.21,11.13,2433.97,7.13,Delayed
+SHP-20168,Mumbai-Surat,Road,FastTrack Express,5.91,471.33,310,100.25,2.79,8.54,977.26,-3.46,On-Time
+SHP-20169,Bengaluru-Chennai,Road,FastTrack Express,5.41,567.73,580,96.82,6.1,18.51,1528.63,6.51,Delayed
+SHP-20170,Kolkata-Patna,Road,VRL Freight,17.58,412.89,280,92.63,1.5,5.93,1056.87,-6.07,On-Time
+SHP-20171,Kolkata-Patna,Rail,VRL Freight,6.77,489.64,350,100.64,1.42,7.1,876.37,-6.9,On-Time
+SHP-20172,Delhi-Jaipur,Road,FastTrack Express,6.12,709.41,350,96.48,4.87,11.98,1159.07,-0.02,On-Time
+SHP-20173,Bengaluru-Chennai,Air,BlueDart Logistics,12.58,522.64,310,105.17,5.75,9.08,2263.81,5.08,Delayed
+SHP-20174,Mumbai-Surat,Road,FastTrack Express,24.47,453.05,580,106.09,4.78,17.2,1724.52,5.2,Delayed
+SHP-20175,Delhi-Jaipur,Air,BlueDart Logistics,18.42,528.87,310,101.68,7.0,8.28,2358.28,4.28,Delayed
+SHP-20176,Kolkata-Patna,Road,FastTrack Express,11.06,552.84,580,92.43,24.01,37.92,1617.98,25.92,Delayed
+SHP-20177,Kolkata-Patna,Road,BlueDart Logistics,3.45,162.26,560,103.13,4.02,16.06,1310.57,4.06,Delayed
+SHP-20178,Kolkata-Patna,Road,SafeXpress,6.29,403.41,560,99.61,1.64,15.65,1433.7,3.65,Delayed
+SHP-20179,Bengaluru-Chennai,Road,FastTrack Express,9.37,642.61,560,101.72,15.95,29.75,1587.31,17.75,Delayed
+SHP-20180,Hyderabad-Pune,Air,BlueDart Logistics,17.32,362.62,350,99.97,5.91,6.1,2457.66,2.1,Delayed
+SHP-20181,Delhi-Jaipur,Air,SafeXpress,12.97,468.66,350,92.86,3.03,3.89,2446.52,-0.11,On-Time
+SHP-20182,Mumbai-Surat,Road,BlueDart Logistics,7.77,260.94,560,103.94,4.21,18.16,1379.76,6.16,Delayed
+SHP-20183,Mumbai-Surat,Road,BlueDart Logistics,9.75,300.81,310,96.23,4.04,10.15,948.66,-1.85,On-Time
+SHP-20184,Mumbai-Surat,Road,FastTrack Express,4.64,335.01,580,107.43,6.48,17.56,1471.94,5.56,Delayed
+SHP-20185,Mumbai-Surat,Road,BlueDart Logistics,21.42,485.78,560,100.89,1.46,14.45,1666.6,2.45,Delayed
+SHP-20186,Mumbai-Surat,Road,VRL Freight,15.99,420.81,280,98.48,1.18,10.24,1073.06,-1.76,On-Time
+SHP-20187,Hyderabad-Pune,Road,VRL Freight,15.62,421.1,580,101.0,1.51,11.98,1567.92,-0.02,On-Time
+SHP-20188,Bengaluru-Chennai,Road,BlueDart Logistics,10.08,427.4,350,104.65,2.32,9.18,1128.33,-2.82,On-Time
+SHP-20189,Hyderabad-Pune,Air,VRL Freight,4.17,382.86,560,99.08,2.14,2.16,3492.83,-1.84,On-Time
+SHP-20190,Bengaluru-Chennai,Sea,BlueDart Logistics,9.24,442.74,580,100.83,1.49,23.03,907.57,-4.97,On-Time
+SHP-20191,Delhi-Jaipur,Road,BlueDart Logistics,6.24,514.3,580,100.66,4.1,17.55,1532.25,5.55,Delayed
+SHP-20192,Delhi-Jaipur,Rail,BlueDart Logistics,7.37,559.86,560,107.37,2.44,11.6,1126.62,-2.4,On-Time
+SHP-20193,Delhi-Jaipur,Road,FastTrack Express,14.65,325.42,280,100.83,1.88,9.41,987.3,-2.59,On-Time
+SHP-20194,Bengaluru-Chennai,Road,FastTrack Express,45.64,600.14,560,93.59,2.03,15.64,2000.29,3.64,Delayed
+SHP-20195,Kolkata-Patna,Road,VRL Freight,4.24,343.13,560,99.68,2.27,11.22,1390.2,-0.78,On-Time
+SHP-20196,Mumbai-Surat,Rail,FastTrack Express,22.68,464.38,350,92.04,4.11,10.2,1022.91,-3.8,On-Time
+SHP-20197,Bengaluru-Chennai,Road,BlueDart Logistics,2.96,276.11,310,99.92,15.88,24.69,878.64,12.69,Delayed
+SHP-20198,Mumbai-Surat,Road,FastTrack Express,9.09,384.0,350,97.39,4.27,11.77,1091.99,-0.23,On-Time
+SHP-20199,Bengaluru-Chennai,Air,BlueDart Logistics,7.32,138.26,350,93.34,7.09,5.52,2230.18,1.52,Delayed
+SHP-20200,Delhi-Jaipur,Road,BlueDart Logistics,34.61,315.69,350,106.53,1.09,5.86,1376.04,-6.14,On-Time
+SHP-20201,Mumbai-Surat,Road,FastTrack Express,11.27,304.95,310,105.74,2.94,12.18,1053.93,0.18,Delayed
+SHP-20202,Bengaluru-Chennai,Sea,SafeXpress,7.56,543.81,280,92.37,2.88,11.84,694.13,-16.16,On-Time
+SHP-20203,Mumbai-Surat,Road,FastTrack Express,17.19,436.03,580,95.59,4.05,17.88,1570.94,5.88,Delayed
+SHP-20204,Kolkata-Patna,Air,FastTrack Express,12.83,600.36,310,94.1,1.2,1.5,2291.61,-2.5,On-Time
+SHP-20205,Delhi-Jaipur,Rail,FastTrack Express,9.57,375.13,580,99.91,1.43,12.68,1078.74,-1.32,On-Time
+SHP-20206,Delhi-Jaipur,Rail,BlueDart Logistics,15.26,336.92,350,99.39,4.53,9.81,892.28,-4.19,On-Time
+SHP-20207,Delhi-Jaipur,Road,SafeXpress,1.68,567.86,580,102.41,4.78,15.94,1511.23,3.94,Delayed
+SHP-20208,Mumbai-Surat,Road,FastTrack Express,9.16,470.16,580,102.21,3.35,14.92,1529.69,2.92,Delayed
+SHP-20209,Delhi-Jaipur,Road,FastTrack Express,13.27,569.9,310,105.21,1.93,6.88,1177.36,-5.12,On-Time
+SHP-20210,Hyderabad-Pune,Road,VRL Freight,10.23,398.8,350,96.78,4.91,14.58,1093.48,2.58,Delayed
+SHP-20211,Kolkata-Patna,Road,BlueDart Logistics,8.2,461.81,280,97.75,7.97,15.92,951.89,3.92,Delayed
+SHP-20212,Delhi-Jaipur,Sea,VRL Freight,9.31,509.97,580,96.55,10.0,34.11,901.83,6.11,Delayed
+SHP-20213,Delhi-Jaipur,Rail,BlueDart Logistics,7.88,514.7,560,106.15,9.57,18.77,1109.64,4.77,Delayed
+SHP-20214,Mumbai-Surat,Sea,FastTrack Express,15.58,521.74,310,104.54,1.22,14.02,805.17,-13.98,On-Time
+SHP-20215,Bengaluru-Chennai,Sea,FastTrack Express,14.1,309.53,580,95.34,2.24,25.03,843.95,-2.97,On-Time
+SHP-20216,Bengaluru-Chennai,Road,FastTrack Express,9.03,534.7,310,99.18,4.03,11.96,1061.11,-0.04,On-Time
+SHP-20217,Delhi-Jaipur,Road,SafeXpress,4.24,708.48,350,100.59,4.91,15.38,1146.11,3.38,Delayed
+SHP-20218,Bengaluru-Chennai,Air,BlueDart Logistics,6.43,514.94,310,102.42,4.63,5.83,2169.22,1.83,Delayed
+SHP-20219,Bengaluru-Chennai,Rail,BlueDart Logistics,12.97,572.17,280,107.47,2.6,7.67,896.34,-6.33,On-Time
+SHP-20220,Mumbai-Surat,Road,FastTrack Express,19.87,491.0,280,94.43,3.49,5.87,1118.08,-6.13,On-Time
+SHP-20221,Bengaluru-Chennai,Air,FastTrack Express,22.21,231.96,280,93.95,5.49,3.76,2084.05,-0.24,On-Time
+SHP-20222,Kolkata-Patna,Road,VRL Freight,6.35,425.23,580,103.11,9.0,22.7,1473.38,10.7,Delayed
+SHP-20223,Mumbai-Surat,Sea,VRL Freight,8.21,420.91,350,92.28,1.21,13.98,673.97,-14.02,On-Time
+SHP-20224,Kolkata-Patna,Road,VRL Freight,9.24,466.02,280,93.72,4.2,10.53,966.72,-1.47,On-Time
+SHP-20225,Hyderabad-Pune,Rail,FastTrack Express,12.2,370.61,350,104.24,9.08,17.03,899.92,3.03,Delayed
+SHP-20226,Mumbai-Surat,Rail,BlueDart Logistics,11.42,267.63,280,101.73,1.68,6.17,737.02,-7.83,On-Time
+SHP-20227,Delhi-Jaipur,Rail,SafeXpress,4.45,416.89,580,93.54,1.91,13.83,1043.04,-0.17,On-Time
+SHP-20228,Delhi-Jaipur,Road,VRL Freight,16.31,386.62,310,92.54,6.75,13.48,1104.02,1.48,Delayed
+SHP-20229,Bengaluru-Chennai,Rail,SafeXpress,6.94,539.9,580,104.47,7.5,16.89,1152.91,2.89,Delayed
+SHP-20230,Delhi-Jaipur,Road,FastTrack Express,30.08,558.53,280,106.98,4.7,10.72,1294.66,-1.28,On-Time
+SHP-20231,Delhi-Jaipur,Road,BlueDart Logistics,6.52,470.01,350,93.47,4.7,13.43,1095.72,1.43,Delayed
+SHP-20232,Delhi-Jaipur,Road,VRL Freight,17.75,697.47,310,95.34,1.61,7.88,1241.17,-4.12,On-Time
+SHP-20233,Bengaluru-Chennai,Road,SafeXpress,30.69,427.65,580,101.29,2.06,15.06,1761.22,3.06,Delayed
+SHP-20234,Mumbai-Surat,Road,VRL Freight,6.65,386.19,560,102.42,6.97,19.37,1422.54,7.37,Delayed
+SHP-20235,Hyderabad-Pune,Road,FastTrack Express,13.87,702.98,580,107.26,1.27,14.91,1741.04,2.91,Delayed
+SHP-20236,Kolkata-Patna,Air,VRL Freight,6.15,503.21,310,104.07,4.25,6.06,2165.63,2.06,Delayed
+SHP-20237,Mumbai-Surat,Rail,FastTrack Express,3.06,384.32,280,101.6,1.67,7.96,706.19,-6.04,On-Time
+SHP-20238,Bengaluru-Chennai,Sea,BlueDart Logistics,7.77,437.56,280,104.56,1.27,11.19,693.98,-16.81,On-Time
+SHP-20239,Hyderabad-Pune,Road,BlueDart Logistics,7.03,424.83,280,96.39,1.03,6.31,918.75,-5.69,On-Time
+SHP-20240,Bengaluru-Chennai,Air,FastTrack Express,5.38,336.92,280,100.63,3.57,4.6,1922.04,0.6,Delayed
+SHP-20241,Delhi-Jaipur,Road,FastTrack Express,21.35,660.74,580,107.28,3.36,15.77,1772.96,3.77,Delayed
+SHP-20242,Kolkata-Patna,Air,SafeXpress,1.72,426.19,310,102.97,3.68,3.02,2064.89,-0.98,On-Time
+SHP-20243,Mumbai-Surat,Road,FastTrack Express,5.12,559.43,310,93.91,3.83,12.64,1026.5,0.64,Delayed
+SHP-20244,Delhi-Jaipur,Rail,FastTrack Express,7.57,359.0,580,95.97,4.76,14.1,1077.39,0.1,Delayed
+SHP-20245,Mumbai-Surat,Road,FastTrack Express,13.11,523.98,310,100.84,3.73,11.88,1100.06,-0.12,On-Time
+SHP-20246,Mumbai-Surat,Rail,SafeXpress,8.91,614.49,280,107.8,10.75,15.43,856.7,1.43,Delayed
+SHP-20247,Kolkata-Patna,Air,FastTrack Express,10.43,489.9,310,97.13,4.07,7.38,2220.16,3.38,Delayed
+SHP-20248,Hyderabad-Pune,Rail,FastTrack Express,13.84,605.89,580,105.99,1.53,13.18,1264.49,-0.82,On-Time
+SHP-20249,Delhi-Jaipur,Air,BlueDart Logistics,26.47,470.42,580,94.59,7.4,6.75,3866.02,2.75,Delayed
+SHP-20250,Mumbai-Surat,Sea,BlueDart Logistics,13.6,525.37,350,103.96,2.96,16.35,830.4,-11.65,On-Time
+SHP-20251,Bengaluru-Chennai,Rail,FastTrack Express,10.89,437.59,310,92.19,2.24,6.37,840.84,-7.63,On-Time
+SHP-20252,Delhi-Jaipur,Rail,BlueDart Logistics,4.13,463.62,580,93.35,30.57,40.86,1054.1,26.86,Delayed
+SHP-20253,Delhi-Jaipur,Air,VRL Freight,2.66,427.58,310,105.53,2.38,4.27,2110.58,0.27,Delayed
+SHP-20254,Mumbai-Surat,Rail,FastTrack Express,7.64,421.96,580,106.56,1.92,12.51,1087.17,-1.49,On-Time
+SHP-20255,Delhi-Jaipur,Sea,FastTrack Express,9.24,537.29,350,101.26,6.76,22.4,750.27,-5.6,On-Time
+SHP-20256,Kolkata-Patna,Air,SafeXpress,6.08,504.99,310,99.7,7.08,5.67,2148.99,1.67,Delayed
+SHP-20257,Delhi-Jaipur,Road,VRL Freight,13.48,554.41,580,101.94,1.98,16.27,1666.33,4.27,Delayed
+SHP-20258,Bengaluru-Chennai,Road,BlueDart Logistics,8.82,497.63,280,103.73,4.09,10.94,1001.93,-1.06,On-Time
+SHP-20259,Bengaluru-Chennai,Road,BlueDart Logistics,12.19,633.47,280,98.15,2.4,6.66,1075.02,-5.34,On-Time
+SHP-20260,Kolkata-Patna,Air,SafeXpress,5.99,500.75,580,97.23,3.9,6.66,3645.41,2.66,Delayed
+SHP-20261,Kolkata-Patna,Road,BlueDart Logistics,10.18,409.23,350,96.64,3.18,13.27,1078.46,1.27,Delayed
+SHP-20262,Kolkata-Patna,Road,SafeXpress,14.06,430.72,310,106.36,2.58,8.88,1081.76,-3.12,On-Time
+SHP-20263,Mumbai-Surat,Road,FastTrack Express,11.17,360.91,580,106.89,13.09,25.9,1480.86,13.9,Delayed
+SHP-20264,Delhi-Jaipur,Road,BlueDart Logistics,4.77,347.3,580,103.75,3.92,13.75,1428.22,1.75,Delayed
+SHP-20265,Kolkata-Patna,Road,FastTrack Express,22.6,630.35,350,98.0,2.6,10.11,1362.07,-1.89,On-Time
+SHP-20266,Bengaluru-Chennai,Road,BlueDart Logistics,11.17,599.29,310,92.54,4.89,14.02,1138.48,2.02,Delayed
+SHP-20267,Mumbai-Surat,Air,FastTrack Express,15.87,582.21,560,99.53,2.63,4.0,3659.67,0.0,On-Time
+SHP-20268,Mumbai-Surat,Air,VRL Freight,7.01,233.41,280,104.19,11.59,12.53,1927.55,8.53,Delayed
+SHP-20269,Delhi-Jaipur,Road,BlueDart Logistics,12.33,423.2,280,106.56,1.25,7.74,1005.42,-4.26,On-Time
+SHP-20270,Delhi-Jaipur,Road,FastTrack Express,12.74,433.45,580,104.01,10.48,24.94,1561.42,12.94,Delayed
+SHP-20271,Kolkata-Patna,Rail,FastTrack Express,10.29,529.78,560,103.61,1.39,12.88,1146.27,-1.12,On-Time
+SHP-20272,Kolkata-Patna,Road,SafeXpress,5.35,375.05,350,101.16,2.24,10.45,1026.88,-1.55,On-Time
+SHP-20273,Kolkata-Patna,Road,VRL Freight,20.52,564.54,560,93.28,3.42,18.11,1674.84,6.11,Delayed
+SHP-20274,Bengaluru-Chennai,Rail,BlueDart Logistics,4.79,366.53,310,107.34,4.47,11.75,754.39,-2.25,On-Time
+SHP-20275,Kolkata-Patna,Rail,VRL Freight,14.91,640.11,280,101.54,5.2,12.24,921.93,-1.76,On-Time
+SHP-20276,Mumbai-Surat,Air,SafeXpress,19.66,760.1,580,102.33,15.01,17.98,3966.11,13.98,Delayed
+SHP-20277,Kolkata-Patna,Rail,FastTrack Express,5.84,348.59,310,98.14,1.29,7.67,762.21,-6.33,On-Time
+SHP-20278,Mumbai-Surat,Road,SafeXpress,13.93,395.81,350,96.53,4.21,14.6,1143.4,2.6,Delayed
+SHP-20279,Mumbai-Surat,Road,FastTrack Express,9.44,490.83,310,93.42,2.69,9.66,1027.33,-2.34,On-Time
+SHP-20280,Bengaluru-Chennai,Road,FastTrack Express,12.64,494.72,350,106.7,2.26,12.49,1164.68,0.49,Delayed
+SHP-20281,Mumbai-Surat,Road,SafeXpress,23.21,480.65,280,107.26,2.93,8.76,1182.2,-3.24,On-Time
+SHP-20282,Delhi-Jaipur,Sea,FastTrack Express,14.88,495.38,310,103.63,12.02,24.14,800.26,-3.86,On-Time
+SHP-20283,Mumbai-Surat,Air,VRL Freight,1.27,416.3,280,96.03,2.91,5.45,1943.03,1.45,Delayed
+SHP-20284,Mumbai-Surat,Air,BlueDart Logistics,14.76,397.97,310,102.94,5.16,10.22,2244.92,6.22,Delayed
+SHP-20285,Mumbai-Surat,Road,FastTrack Express,7.75,461.51,350,94.11,5.49,14.18,1081.64,2.18,Delayed
+SHP-20286,Delhi-Jaipur,Road,FastTrack Express,17.16,554.77,580,95.71,3.87,16.88,1690.46,4.88,Delayed
+SHP-20287,Bengaluru-Chennai,Rail,BlueDart Logistics,21.25,318.96,280,96.91,4.27,10.88,894.59,-3.12,On-Time
+SHP-20288,Mumbai-Surat,Sea,VRL Freight,7.37,346.23,350,101.57,2.01,17.43,673.85,-10.57,On-Time
+SHP-20289,Hyderabad-Pune,Road,BlueDart Logistics,22.33,320.13,580,99.61,7.41,20.28,1634.21,8.28,Delayed
+SHP-20290,Mumbai-Surat,Air,VRL Freight,9.2,385.34,580,107.96,12.18,14.09,3694.29,10.09,Delayed
+SHP-20291,Bengaluru-Chennai,Sea,VRL Freight,1.54,516.18,310,93.65,2.34,16.16,650.58,-11.84,On-Time
+SHP-20292,Kolkata-Patna,Road,VRL Freight,9.76,465.91,350,103.7,1.38,10.33,1094.17,-1.67,On-Time
+SHP-20293,Hyderabad-Pune,Rail,FastTrack Express,19.74,366.63,280,104.91,1.29,7.84,885.65,-6.16,On-Time
+SHP-20294,Kolkata-Patna,Sea,SafeXpress,24.8,470.92,280,100.46,3.9,15.94,891.52,-12.06,On-Time
+SHP-20295,Delhi-Jaipur,Road,FastTrack Express,21.32,509.24,310,97.59,1.23,8.07,1206.33,-3.93,On-Time
+SHP-20296,Delhi-Jaipur,Air,FastTrack Express,31.74,383.83,310,102.68,2.24,2.08,2418.24,-1.92,On-Time
+SHP-20297,Bengaluru-Chennai,Road,SafeXpress,9.64,433.7,350,94.73,1.19,9.71,1114.52,-2.29,On-Time
+SHP-20298,Delhi-Jaipur,Road,FastTrack Express,11.81,426.58,580,104.08,9.9,22.88,1555.12,10.88,Delayed
+SHP-20299,Delhi-Jaipur,Air,VRL Freight,5.87,173.14,560,96.88,3.32,4.16,3434.84,0.16,Delayed
+SHP-20300,Bengaluru-Chennai,Sea,FastTrack Express,29.54,533.52,350,106.79,3.19,15.3,1023.46,-12.7,On-Time
+SHP-20301,Delhi-Jaipur,Road,BlueDart Logistics,5.66,469.12,280,101.21,3.49,12.6,950.22,0.6,Delayed
+SHP-20302,Mumbai-Surat,Road,FastTrack Express,9.88,567.69,280,104.01,20.75,27.47,1008.24,15.47,Delayed
+SHP-20303,Bengaluru-Chennai,Road,VRL Freight,16.94,468.29,350,103.13,1.3,7.92,1258.2,-4.08,On-Time
+SHP-20304,Mumbai-Surat,Rail,BlueDart Logistics,16.97,592.36,560,100.1,17.83,29.74,1250.88,15.74,Delayed
+SHP-20305,Delhi-Jaipur,Road,VRL Freight,16.82,328.6,310,96.1,2.93,12.56,1066.79,0.56,Delayed
+SHP-20306,Hyderabad-Pune,Air,FastTrack Express,11.64,529.91,310,107.94,7.61,6.88,2275.91,2.88,Delayed
+SHP-20307,Delhi-Jaipur,Road,BlueDart Logistics,20.82,404.57,310,98.29,2.05,7.72,1176.97,-4.28,On-Time
+SHP-20308,Bengaluru-Chennai,Road,BlueDart Logistics,15.79,479.93,310,97.24,1.36,8.25,1126.68,-3.75,On-Time
+SHP-20309,Mumbai-Surat,Road,BlueDart Logistics,6.59,505.79,580,106.48,8.17,20.86,1562.13,8.86,Delayed
+SHP-20310,Bengaluru-Chennai,Road,FastTrack Express,5.57,415.12,580,100.94,4.14,16.85,1473.45,4.85,Delayed
+SHP-20311,Bengaluru-Chennai,Rail,BlueDart Logistics,8.92,532.03,580,92.78,4.12,15.11,1176.47,1.11,Delayed
+SHP-20312,Kolkata-Patna,Road,BlueDart Logistics,4.25,392.34,580,107.38,6.43,19.22,1444.66,7.22,Delayed
+SHP-20313,Delhi-Jaipur,Road,FastTrack Express,10.98,491.56,280,94.0,4.83,9.9,1014.4,-2.1,On-Time
+SHP-20314,Mumbai-Surat,Rail,VRL Freight,6.6,417.64,350,106.16,11.84,18.03,869.55,4.03,Delayed
+SHP-20315,Mumbai-Surat,Sea,VRL Freight,9.26,440.7,310,99.64,2.01,14.13,683.93,-13.87,On-Time
+SHP-20316,Delhi-Jaipur,Road,FastTrack Express,10.26,554.1,560,94.09,6.72,18.61,1554.65,6.61,Delayed
+SHP-20317,Bengaluru-Chennai,Air,FastTrack Express,18.57,312.39,350,97.71,1.03,1.5,2475.55,-2.5,On-Time
+SHP-20318,Kolkata-Patna,Road,VRL Freight,6.62,348.69,310,103.53,2.58,7.95,974.22,-4.05,On-Time
+SHP-20319,Hyderabad-Pune,Road,SafeXpress,11.92,503.08,350,96.61,2.32,9.17,1126.47,-2.83,On-Time
+SHP-20320,Delhi-Jaipur,Road,BlueDart Logistics,30.92,547.7,280,102.82,1.21,9.47,1304.72,-2.53,On-Time
+SHP-20321,Mumbai-Surat,Road,BlueDart Logistics,12.6,398.55,350,98.9,1.61,9.84,1179.25,-2.16,On-Time
+SHP-20322,Kolkata-Patna,Air,SafeXpress,4.86,545.15,580,103.74,1.32,5.6,3685.54,1.6,Delayed
+SHP-20323,Delhi-Jaipur,Road,FastTrack Express,44.49,622.43,580,104.2,1.41,14.03,2055.44,2.03,Delayed
+SHP-20324,Bengaluru-Chennai,Road,FastTrack Express,14.06,708.3,310,96.33,3.37,7.7,1213.43,-4.3,On-Time
+SHP-20325,Bengaluru-Chennai,Rail,BlueDart Logistics,19.34,442.62,310,96.31,1.71,7.59,934.69,-6.41,On-Time
+SHP-20326,Bengaluru-Chennai,Road,VRL Freight,16.6,577.62,580,93.67,4.56,17.32,1703.66,5.32,Delayed
+SHP-20327,Kolkata-Patna,Road,VRL Freight,12.42,530.48,310,103.35,2.93,10.26,1109.28,-1.74,On-Time
+SHP-20328,Delhi-Jaipur,Road,FastTrack Express,15.76,521.1,580,105.88,1.82,13.52,1643.76,1.52,Delayed
+SHP-20329,Mumbai-Surat,Air,FastTrack Express,17.72,412.33,580,96.01,2.02,4.31,3771.58,0.31,Delayed
+SHP-20330,Mumbai-Surat,Road,BlueDart Logistics,6.09,287.72,310,102.67,5.65,10.86,956.38,-1.14,On-Time
+SHP-20331,Hyderabad-Pune,Rail,SafeXpress,12.74,486.26,280,96.32,15.48,19.96,846.32,5.96,Delayed
+SHP-20332,Mumbai-Surat,Road,VRL Freight,6.16,394.58,580,104.05,3.06,14.63,1501.61,2.63,Delayed
+SHP-20333,Mumbai-Surat,Road,FastTrack Express,36.26,354.81,280,94.72,6.0,12.95,1241.35,0.95,Delayed
+SHP-20334,Bengaluru-Chennai,Rail,VRL Freight,15.74,411.95,280,93.44,8.81,15.46,823.95,1.46,Delayed
+SHP-20335,Delhi-Jaipur,Air,BlueDart Logistics,12.45,639.6,350,94.28,9.76,11.17,2509.01,7.17,Delayed
+SHP-20336,Bengaluru-Chennai,Road,SafeXpress,10.43,548.82,280,93.24,2.07,7.14,1020.17,-4.86,On-Time
+SHP-20337,Bengaluru-Chennai,Air,FastTrack Express,9.63,388.75,580,105.36,1.04,3.46,3628.8,-0.54,On-Time
+SHP-20338,Delhi-Jaipur,Rail,FastTrack Express,1.3,687.29,560,103.06,3.56,16.63,1134.65,2.63,Delayed
+SHP-20339,Mumbai-Surat,Rail,FastTrack Express,4.48,430.82,350,105.98,5.93,12.38,801.5,-1.62,On-Time
+SHP-20340,Kolkata-Patna,Air,VRL Freight,3.33,412.23,560,107.73,5.02,4.88,3463.67,0.88,Delayed
+SHP-20341,Mumbai-Surat,Sea,FastTrack Express,16.38,510.17,280,93.27,2.69,15.34,826.69,-12.66,On-Time
+SHP-20342,Delhi-Jaipur,Road,VRL Freight,16.34,456.01,280,92.74,1.26,6.72,1055.92,-5.28,On-Time
+SHP-20343,Hyderabad-Pune,Rail,VRL Freight,15.39,544.93,280,92.4,6.13,10.11,881.63,-3.89,On-Time
+SHP-20344,Hyderabad-Pune,Sea,BlueDart Logistics,20.49,264.36,280,106.71,5.27,15.17,726.98,-12.83,On-Time
+SHP-20345,Bengaluru-Chennai,Road,BlueDart Logistics,10.72,270.41,580,100.85,6.12,20.45,1448.45,8.45,Delayed
+SHP-20346,Kolkata-Patna,Road,VRL Freight,5.45,580.6,350,97.1,10.69,20.86,1088.87,8.86,Delayed
+SHP-20347,Bengaluru-Chennai,Rail,BlueDart Logistics,8.15,310.04,280,100.13,1.69,6.31,709.31,-7.69,On-Time
+SHP-20348,Delhi-Jaipur,Rail,BlueDart Logistics,11.11,325.19,350,94.75,17.61,20.99,840.44,6.99,Delayed
+SHP-20349,Delhi-Jaipur,Road,FastTrack Express,23.64,384.63,580,97.75,1.06,13.5,1705.13,1.5,Delayed
+SHP-20350,Mumbai-Surat,Road,VRL Freight,22.12,474.73,280,103.31,1.62,8.62,1148.91,-3.38,On-Time
+SHP-20351,Delhi-Jaipur,Rail,FastTrack Express,2.09,434.75,560,99.46,6.01,16.3,1010.54,2.3,Delayed
+SHP-20352,Delhi-Jaipur,Road,BlueDart Logistics,4.63,573.68,580,95.56,1.04,11.94,1546.85,-0.06,On-Time
+SHP-20353,Delhi-Jaipur,Rail,VRL Freight,19.97,401.11,310,101.21,7.79,11.93,937.46,-2.07,On-Time
+SHP-20354,Delhi-Jaipur,Road,FastTrack Express,15.04,77.21,350,94.98,1.11,7.96,991.7,-4.04,On-Time
+SHP-20355,Kolkata-Patna,Air,BlueDart Logistics,6.34,444.29,580,102.25,2.87,3.96,3623.8,-0.04,On-Time
+SHP-20356,Mumbai-Surat,Road,FastTrack Express,13.3,375.02,280,99.09,1.68,8.96,982.53,-3.04,On-Time
+SHP-20357,Mumbai-Surat,Road,SafeXpress,23.36,387.22,310,96.23,5.18,13.18,1177.92,1.18,Delayed
+SHP-20358,Bengaluru-Chennai,Air,FastTrack Express,5.99,338.41,310,93.18,3.16,2.98,2112.75,-1.02,On-Time
+SHP-20359,Delhi-Jaipur,Road,FastTrack Express,10.93,304.83,350,106.57,1.87,8.23,1083.8,-3.77,On-Time
+SHP-20360,Kolkata-Patna,Sea,VRL Freight,26.12,552.03,280,99.83,2.87,15.46,929.73,-12.54,On-Time
+SHP-20361,Delhi-Jaipur,Air,SafeXpress,6.79,636.2,560,92.66,5.46,6.46,3594.58,2.46,Delayed
+SHP-20362,Kolkata-Patna,Road,SafeXpress,3.08,639.68,310,98.39,1.82,11.53,1027.07,-0.47,On-Time
+SHP-20363,Mumbai-Surat,Air,SafeXpress,13.1,330.67,280,106.09,10.25,9.17,2046.07,5.17,Delayed
+SHP-20364,Hyderabad-Pune,Rail,BlueDart Logistics,16.55,390.99,580,93.99,1.26,13.57,1145.5,-0.43,On-Time
+SHP-20365,Hyderabad-Pune,Rail,VRL Freight,4.8,400.76,310,99.97,9.39,17.37,752.56,3.37,Delayed
+SHP-20366,Hyderabad-Pune,Air,VRL Freight,19.23,529.92,350,97.91,2.68,3.89,2589.05,-0.11,On-Time
+SHP-20367,Mumbai-Surat,Sea,FastTrack Express,39.79,583.84,310,96.57,3.26,17.05,1088.89,-10.95,On-Time
+SHP-20368,Hyderabad-Pune,Road,BlueDart Logistics,18.38,522.3,310,95.06,1.06,6.79,1181.58,-5.21,On-Time
+SHP-20369,Bengaluru-Chennai,Road,BlueDart Logistics,10.92,691.2,560,93.0,1.92,13.47,1596.38,1.47,Delayed
+SHP-20370,Delhi-Jaipur,Road,BlueDart Logistics,8.44,449.95,310,98.93,4.44,9.16,1012.29,-2.84,On-Time
+SHP-20371,Delhi-Jaipur,Rail,VRL Freight,9.92,502.42,280,102.13,1.25,3.67,835.67,-10.33,On-Time
+SHP-20372,Hyderabad-Pune,Road,FastTrack Express,8.95,404.23,580,95.14,5.12,16.08,1470.22,4.08,Delayed
+SHP-20373,Mumbai-Surat,Air,FastTrack Express,8.99,327.37,580,104.4,5.97,7.76,3601.54,3.76,Delayed
+SHP-20374,Kolkata-Patna,Road,FastTrack Express,6.43,391.38,560,93.42,3.7,15.74,1441.77,3.74,Delayed
+SHP-20375,Mumbai-Surat,Rail,FastTrack Express,4.4,387.07,350,98.44,1.8,6.75,791.11,-7.25,On-Time
+SHP-20376,Delhi-Jaipur,Road,VRL Freight,17.64,630.37,580,99.36,1.61,14.79,1714.67,2.79,Delayed
+SHP-20377,Delhi-Jaipur,Road,FastTrack Express,23.56,262.9,350,94.15,1.27,11.61,1191.55,-0.39,On-Time
+SHP-20378,Kolkata-Patna,Road,SafeXpress,29.53,453.08,350,98.53,2.05,10.58,1396.75,-1.42,On-Time
+SHP-20379,Mumbai-Surat,Road,VRL Freight,13.7,306.39,310,94.74,6.84,11.96,1029.04,-0.04,On-Time
+SHP-20380,Kolkata-Patna,Rail,FastTrack Express,6.26,500.96,560,97.82,3.23,14.64,1051.06,0.64,Delayed
+SHP-20381,Mumbai-Surat,Road,BlueDart Logistics,9.12,491.44,350,104.26,2.28,11.53,1123.54,-0.47,On-Time
+SHP-20382,Kolkata-Patna,Road,BlueDart Logistics,15.43,348.74,280,103.38,5.99,14.23,1025.74,2.23,Delayed
+SHP-20383,Hyderabad-Pune,Road,VRL Freight,11.1,567.66,310,99.7,6.48,12.11,1119.23,0.11,Delayed
+SHP-20384,Kolkata-Patna,Sea,FastTrack Express,6.07,458.9,350,98.33,5.59,21.68,714.54,-6.32,On-Time
+SHP-20385,Mumbai-Surat,Rail,BlueDart Logistics,23.11,422.47,560,96.23,2.23,10.9,1228.73,-3.1,On-Time
+SHP-20386,Delhi-Jaipur,Rail,VRL Freight,6.59,368.59,560,94.92,15.9,25.61,1025.04,11.61,Delayed
+SHP-20387,Bengaluru-Chennai,Road,VRL Freight,30.26,477.97,280,95.55,2.49,10.8,1262.03,-1.2,On-Time
+SHP-20388,Mumbai-Surat,Road,BlueDart Logistics,3.57,362.19,580,102.37,2.44,18.25,1407.81,6.25,Delayed
+SHP-20389,Kolkata-Patna,Road,BlueDart Logistics,4.44,520.33,280,103.98,8.18,15.5,969.66,3.5,Delayed
+SHP-20390,Mumbai-Surat,Road,VRL Freight,22.01,449.78,310,105.63,2.96,9.39,1197.95,-2.61,On-Time
+SHP-20391,Bengaluru-Chennai,Road,VRL Freight,7.04,364.97,350,102.8,5.47,14.87,1034.53,2.87,Delayed
+SHP-20392,Bengaluru-Chennai,Road,FastTrack Express,12.61,514.46,280,100.98,3.48,12.0,1061.49,0.0,On-Time
+SHP-20393,Mumbai-Surat,Road,BlueDart Logistics,16.61,452.77,310,105.58,3.39,8.89,1113.35,-3.11,On-Time
+SHP-20394,Bengaluru-Chennai,Road,SafeXpress,5.62,718.96,350,103.02,4.82,8.79,1191.93,-3.21,On-Time
+SHP-20395,Kolkata-Patna,Road,BlueDart Logistics,12.65,364.42,310,97.38,5.28,11.61,1060.67,-0.39,On-Time
+SHP-20396,Bengaluru-Chennai,Air,SafeXpress,16.82,449.38,560,99.83,4.36,5.04,3612.27,1.04,Delayed
+SHP-20397,Bengaluru-Chennai,Road,BlueDart Logistics,7.97,506.57,350,103.92,3.6,12.59,1122.94,0.59,Delayed
+SHP-20398,Bengaluru-Chennai,Air,FastTrack Express,13.9,383.01,280,107.28,1.89,2.67,2058.62,-1.33,On-Time
+SHP-20399,Delhi-Jaipur,Road,FastTrack Express,10.58,557.8,310,92.41,2.05,10.5,1086.72,-1.5,On-Time
+SHP-20400,Delhi-Jaipur,Road,BlueDart Logistics,17.19,423.71,350,95.42,10.17,15.6,1192.66,3.6,Delayed
+SHP-20401,Mumbai-Surat,Road,BlueDart Logistics,8.89,592.03,280,105.66,1.57,7.96,1070.67,-4.04,On-Time
+SHP-20402,Mumbai-Surat,Rail,FastTrack Express,10.55,397.41,280,98.28,5.94,12.33,828.38,-1.67,On-Time
+SHP-20403,Delhi-Jaipur,Road,FastTrack Express,8.29,494.05,310,93.83,6.69,12.91,1059.25,0.91,Delayed
+SHP-20404,Bengaluru-Chennai,Rail,BlueDart Logistics,4.34,631.39,350,103.13,11.19,18.96,910.56,4.96,Delayed
+SHP-20405,Delhi-Jaipur,Road,BlueDart Logistics,21.58,364.93,580,92.48,1.69,13.94,1593.84,1.94,Delayed
+SHP-20406,Bengaluru-Chennai,Road,FastTrack Express,17.18,613.41,580,94.72,6.74,19.95,1694.25,7.95,Delayed
+SHP-20407,Bengaluru-Chennai,Air,VRL Freight,9.8,397.11,560,103.42,2.45,2.74,3533.25,-1.26,On-Time
+SHP-20408,Mumbai-Surat,Road,FastTrack Express,6.87,377.59,310,105.7,1.84,8.38,1000.58,-3.62,On-Time
+SHP-20409,Bengaluru-Chennai,Air,BlueDart Logistics,11.52,398.18,580,97.25,2.59,6.37,3685.73,2.37,Delayed
+SHP-20410,Kolkata-Patna,Road,FastTrack Express,8.27,295.2,310,104.32,7.95,12.73,960.65,0.73,Delayed
+SHP-20411,Kolkata-Patna,Air,SafeXpress,10.77,655.43,580,105.56,4.77,4.59,3822.53,0.59,Delayed
+SHP-20412,Mumbai-Surat,Sea,BlueDart Logistics,15.02,422.73,350,103.5,8.84,20.31,829.04,-7.69,On-Time
+SHP-20413,Delhi-Jaipur,Sea,BlueDart Logistics,1.91,329.57,350,104.32,1.41,12.86,574.39,-15.14,On-Time
+SHP-20414,Delhi-Jaipur,Air,VRL Freight,15.84,395.29,580,96.37,3.49,4.66,3703.63,0.66,Delayed
+SHP-20415,Delhi-Jaipur,Rail,VRL Freight,9.8,507.63,310,103.48,3.55,9.17,861.82,-4.83,On-Time
+SHP-20416,Mumbai-Surat,Road,SafeXpress,9.46,502.76,280,95.94,1.01,5.91,1002.57,-6.09,On-Time
+SHP-20417,Kolkata-Patna,Road,VRL Freight,2.66,271.49,350,96.31,1.5,7.01,965.92,-4.99,On-Time
+SHP-20418,Hyderabad-Pune,Road,BlueDart Logistics,25.44,664.82,310,98.07,2.82,10.4,1349.12,-1.6,On-Time
+SHP-20419,Mumbai-Surat,Road,VRL Freight,14.8,516.82,580,94.19,10.29,24.25,1635.33,12.25,Delayed
+SHP-20420,Mumbai-Surat,Road,BlueDart Logistics,9.21,351.56,280,97.09,3.55,9.64,931.86,-2.36,On-Time
+SHP-20421,Mumbai-Surat,Rail,BlueDart Logistics,18.68,440.36,310,105.91,10.83,17.79,937.53,3.79,Delayed
+SHP-20422,Delhi-Jaipur,Rail,FastTrack Express,13.14,428.17,310,100.88,1.23,6.56,852.86,-7.44,On-Time
+SHP-20423,Kolkata-Patna,Rail,BlueDart Logistics,4.13,366.0,350,100.16,4.39,12.41,776.53,-1.59,On-Time
+SHP-20424,Delhi-Jaipur,Road,FastTrack Express,14.41,354.22,560,105.88,7.96,21.43,1483.53,9.43,Delayed
+SHP-20425,Mumbai-Surat,Air,SafeXpress,7.86,661.71,560,97.68,6.48,5.58,3657.31,1.58,Delayed
+SHP-20426,Delhi-Jaipur,Road,VRL Freight,13.67,338.21,350,94.64,2.23,8.07,1082.13,-3.93,On-Time
+SHP-20427,Delhi-Jaipur,Rail,BlueDart Logistics,3.27,492.94,350,98.48,1.53,9.29,815.39,-4.71,On-Time
+SHP-20428,Hyderabad-Pune,Rail,SafeXpress,8.65,387.36,350,96.29,4.0,9.6,826.81,-4.4,On-Time
+SHP-20429,Mumbai-Surat,Road,FastTrack Express,9.06,339.36,310,102.54,8.32,16.48,1000.34,4.48,Delayed
+SHP-20430,Mumbai-Surat,Road,BlueDart Logistics,12.31,480.64,560,102.65,1.3,11.68,1521.56,-0.32,On-Time
+SHP-20431,Mumbai-Surat,Air,FastTrack Express,5.33,474.66,310,107.17,1.57,1.5,2190.8,-2.5,On-Time
+SHP-20432,Delhi-Jaipur,Road,BlueDart Logistics,4.58,344.56,350,103.44,10.37,20.11,1038.91,8.11,Delayed
+SHP-20433,Kolkata-Patna,Road,FastTrack Express,30.33,517.45,350,95.08,3.36,13.3,1392.36,1.3,Delayed
+SHP-20434,Kolkata-Patna,Road,FastTrack Express,6.07,458.04,580,94.03,3.75,15.85,1464.08,3.85,Delayed
+SHP-20435,Hyderabad-Pune,Road,BlueDart Logistics,5.24,420.27,310,107.61,11.33,19.34,972.65,7.34,Delayed
+SHP-20436,Delhi-Jaipur,Road,FastTrack Express,6.79,322.9,280,103.6,2.28,8.75,903.04,-3.25,On-Time
+SHP-20437,Delhi-Jaipur,Sea,BlueDart Logistics,8.39,412.99,580,101.25,2.92,26.83,852.36,-1.17,On-Time
+SHP-20438,Kolkata-Patna,Sea,BlueDart Logistics,4.15,165.0,580,105.04,1.11,23.64,669.3,-4.36,On-Time
+SHP-20439,Kolkata-Patna,Road,FastTrack Express,15.11,396.87,310,105.71,2.08,10.51,1091.03,-1.49,On-Time
+SHP-20440,Delhi-Jaipur,Road,BlueDart Logistics,8.05,572.72,310,97.71,5.13,8.06,1092.88,-3.94,On-Time
+SHP-20441,Bengaluru-Chennai,Road,SafeXpress,7.81,405.74,310,103.3,5.33,10.67,967.02,-1.33,On-Time
+SHP-20442,Kolkata-Patna,Road,BlueDart Logistics,34.16,455.93,350,96.38,2.77,11.05,1422.37,-0.95,On-Time
+SHP-20443,Mumbai-Surat,Air,BlueDart Logistics,10.96,514.9,310,106.82,2.84,5.92,2217.76,1.92,Delayed
+SHP-20444,Bengaluru-Chennai,Road,FastTrack Express,5.31,522.12,280,104.96,4.21,11.78,971.67,-0.22,On-Time
+SHP-20445,Delhi-Jaipur,Road,BlueDart Logistics,5.89,459.59,580,107.08,4.19,16.76,1502.25,4.76,Delayed
+SHP-20446,Delhi-Jaipur,Rail,SafeXpress,6.08,405.93,560,98.34,6.7,17.06,1035.01,3.06,Delayed
+SHP-20447,Hyderabad-Pune,Rail,BlueDart Logistics,16.07,358.63,350,96.98,5.68,15.14,910.23,1.14,Delayed
+SHP-20448,Delhi-Jaipur,Rail,FastTrack Express,25.85,388.28,280,102.9,6.48,9.91,983.48,-4.09,On-Time
+SHP-20449,Hyderabad-Pune,Air,BlueDart Logistics,6.5,374.44,350,103.84,2.87,2.22,2315.62,-1.78,On-Time
+SHP-20450,Bengaluru-Chennai,Road,FastTrack Express,12.3,308.86,350,107.09,2.72,10.73,1141.8,-1.27,On-Time
+SHP-20451,Bengaluru-Chennai,Road,BlueDart Logistics,3.73,653.9,350,92.76,3.91,13.94,1139.44,1.94,Delayed
+SHP-20452,Hyderabad-Pune,Air,SafeXpress,4.91,512.92,280,105.42,4.33,3.52,2061.68,-0.48,On-Time
+SHP-20453,Mumbai-Surat,Sea,BlueDart Logistics,20.79,432.39,350,105.56,4.23,20.48,887.24,-7.52,On-Time
+SHP-20454,Mumbai-Surat,Air,BlueDart Logistics,3.07,603.95,310,100.49,6.6,8.66,2183.01,4.66,Delayed
+SHP-20455,Mumbai-Surat,Road,VRL Freight,10.19,397.19,350,97.0,5.47,13.32,1058.1,1.32,Delayed
+SHP-20456,Kolkata-Patna,Road,BlueDart Logistics,5.87,382.39,310,95.84,4.34,9.26,957.54,-2.74,On-Time
+SHP-20457,Bengaluru-Chennai,Road,FastTrack Express,7.18,648.14,560,96.49,1.6,14.08,1496.96,2.08,Delayed
+SHP-20458,Bengaluru-Chennai,Road,SafeXpress,12.26,464.12,580,97.97,2.24,16.59,1591.22,4.59,Delayed
+SHP-20459,Kolkata-Patna,Rail,SafeXpress,10.95,501.55,580,104.42,1.37,13.62,1178.22,-0.38,On-Time
+SHP-20460,Kolkata-Patna,Road,FastTrack Express,9.13,463.28,350,96.78,3.64,12.06,1122.78,0.06,Delayed
+SHP-20461,Mumbai-Surat,Road,BlueDart Logistics,11.94,506.48,280,93.92,4.91,9.65,1037.19,-2.35,On-Time
+SHP-20462,Delhi-Jaipur,Road,FastTrack Express,9.59,478.33,310,101.12,5.82,14.62,1063.27,2.62,Delayed
+SHP-20463,Delhi-Jaipur,Road,FastTrack Express,11.26,382.41,280,97.48,1.03,7.38,989.3,-4.62,On-Time
+SHP-20464,Delhi-Jaipur,Air,BlueDart Logistics,2.0,357.31,580,92.02,4.88,6.62,3533.83,2.62,Delayed
+SHP-20465,Bengaluru-Chennai,Rail,BlueDart Logistics,8.77,625.09,310,107.33,2.81,8.03,934.43,-5.97,On-Time
+SHP-20466,Mumbai-Surat,Rail,BlueDart Logistics,6.86,495.37,580,101.58,11.23,19.86,1099.84,5.86,Delayed
+SHP-20467,Hyderabad-Pune,Road,FastTrack Express,10.38,521.82,350,99.66,4.61,13.55,1187.65,1.55,Delayed
+SHP-20468,Bengaluru-Chennai,Road,BlueDart Logistics,12.47,482.78,310,103.28,5.6,11.25,1085.26,-0.75,On-Time
+SHP-20469,Delhi-Jaipur,Road,BlueDart Logistics,16.38,567.43,580,102.27,7.45,19.57,1665.24,7.57,Delayed
+SHP-20470,Hyderabad-Pune,Air,SafeXpress,9.48,552.96,560,102.36,6.16,8.67,3603.74,4.67,Delayed
+SHP-20471,Mumbai-Surat,Road,FastTrack Express,17.21,255.26,350,103.57,8.92,16.36,1127.89,4.36,Delayed
+SHP-20472,Mumbai-Surat,Road,FastTrack Express,12.66,453.76,560,103.45,4.03,15.95,1541.68,3.95,Delayed
+SHP-20473,Hyderabad-Pune,Rail,FastTrack Express,2.14,516.75,280,94.95,13.32,17.14,748.32,3.14,Delayed
+SHP-20474,Delhi-Jaipur,Sea,BlueDart Logistics,12.88,382.26,280,102.21,7.87,20.44,694.83,-7.56,On-Time
+SHP-20475,Bengaluru-Chennai,Rail,BlueDart Logistics,19.48,525.41,560,106.13,1.99,10.28,1269.91,-3.72,On-Time
+SHP-20476,Mumbai-Surat,Road,VRL Freight,7.21,313.19,350,107.82,1.54,9.21,1023.77,-2.79,On-Time
+SHP-20477,Bengaluru-Chennai,Road,VRL Freight,19.45,500.8,580,94.48,15.01,28.1,1660.87,16.1,Delayed
+SHP-20478,Mumbai-Surat,Sea,SafeXpress,26.79,445.4,350,94.25,3.33,16.64,925.76,-11.36,On-Time
+SHP-20479,Delhi-Jaipur,Rail,VRL Freight,15.11,409.43,580,92.64,9.64,19.33,1127.11,5.33,Delayed
+SHP-20480,Mumbai-Surat,Road,FastTrack Express,3.94,595.44,310,103.03,4.85,10.52,1033.22,-1.48,On-Time
+SHP-20481,Mumbai-Surat,Road,FastTrack Express,21.75,247.82,350,107.89,5.5,13.01,1193.12,1.01,Delayed
+SHP-20482,Delhi-Jaipur,Rail,VRL Freight,7.01,511.66,310,104.66,1.91,5.69,852.64,-8.31,On-Time
+SHP-20483,Hyderabad-Pune,Road,FastTrack Express,10.87,371.92,280,98.37,5.28,9.48,962.31,-2.52,On-Time
+SHP-20484,Kolkata-Patna,Sea,VRL Freight,12.91,392.4,560,93.25,4.71,23.59,889.28,-4.41,On-Time
+SHP-20485,Hyderabad-Pune,Road,SafeXpress,9.14,485.11,580,105.47,1.52,14.73,1580.17,2.73,Delayed
+SHP-20486,Mumbai-Surat,Road,VRL Freight,10.13,441.99,580,99.87,3.93,14.14,1547.64,2.14,Delayed
+SHP-20487,Delhi-Jaipur,Rail,BlueDart Logistics,25.1,673.64,310,100.13,3.91,11.2,1083.32,-2.8,On-Time
+SHP-20488,Delhi-Jaipur,Air,BlueDart Logistics,7.19,523.24,310,98.79,5.92,6.71,2189.33,2.71,Delayed
+SHP-20489,Mumbai-Surat,Road,FastTrack Express,9.52,492.69,280,102.99,6.27,11.55,1038.36,-0.45,On-Time
+SHP-20490,Kolkata-Patna,Road,FastTrack Express,7.75,484.74,280,103.8,2.83,10.98,971.93,-1.02,On-Time
+SHP-20491,Mumbai-Surat,Road,SafeXpress,10.36,392.72,280,107.27,14.35,21.57,977.22,9.57,Delayed
+SHP-20492,Mumbai-Surat,Road,BlueDart Logistics,17.23,721.46,310,105.77,1.69,7.5,1234.33,-4.5,On-Time
+SHP-20493,Delhi-Jaipur,Rail,BlueDart Logistics,11.47,617.87,560,103.7,4.79,14.21,1197.03,0.21,Delayed
+SHP-20494,Hyderabad-Pune,Rail,FastTrack Express,15.15,361.8,580,105.3,4.4,13.79,1141.92,-0.21,On-Time
+SHP-20495,Mumbai-Surat,Air,VRL Freight,3.71,478.37,580,99.11,2.29,2.3,3618.5,-1.7,On-Time
+SHP-20496,Kolkata-Patna,Road,VRL Freight,9.14,385.35,560,107.46,4.84,18.64,1436.06,6.64,Delayed
+SHP-20497,Mumbai-Surat,Road,BlueDart Logistics,7.62,288.12,280,107.91,3.14,8.63,898.57,-3.37,On-Time
+SHP-20498,Bengaluru-Chennai,Rail,FastTrack Express,8.82,656.22,580,107.58,2.94,13.35,1246.08,-0.65,On-Time
+SHP-20499,Mumbai-Surat,Rail,FastTrack Express,18.56,217.87,580,93.08,3.17,15.17,1120.16,1.17,Delayed
+SHP-20500,Bengaluru-Chennai,Road,FastTrack Express,16.6,566.28,350,107.91,9.7,18.3,1259.72,6.3,Delayed
+SHP-20501,Delhi-Jaipur,Road,VRL Freight,6.89,493.76,280,94.17,6.17,10.28,957.39,-1.72,On-Time
+SHP-20502,Bengaluru-Chennai,Air,FastTrack Express,11.27,193.51,580,106.47,4.08,5.09,3602.17,1.09,Delayed
+SHP-20503,Kolkata-Patna,Road,FastTrack Express,10.41,473.84,280,104.39,3.85,12.45,1031.19,0.45,Delayed
+SHP-20504,Hyderabad-Pune,Air,SafeXpress,6.97,362.28,560,104.19,1.45,2.29,3500.14,-1.71,On-Time
+SHP-20505,Bengaluru-Chennai,Road,VRL Freight,10.61,401.49,580,97.87,4.71,16.7,1529.24,4.7,Delayed
+SHP-20506,Mumbai-Surat,Rail,FastTrack Express,2.02,351.6,280,102.89,5.08,10.88,676.52,-3.12,On-Time
+SHP-20507,Delhi-Jaipur,Air,FastTrack Express,12.83,457.19,580,105.35,5.61,7.98,3745.61,3.98,Delayed
+SHP-20508,Mumbai-Surat,Road,FastTrack Express,11.66,472.98,280,101.07,7.01,15.28,1035.06,3.28,Delayed
+SHP-20509,Kolkata-Patna,Road,VRL Freight,15.17,527.46,280,105.51,2.13,9.1,1066.55,-2.9,On-Time
+SHP-20510,Kolkata-Patna,Rail,FastTrack Express,20.79,522.17,580,102.05,6.9,17.29,1329.06,3.29,Delayed
+SHP-20511,Bengaluru-Chennai,Rail,FastTrack Express,9.58,581.24,350,104.73,3.79,9.58,942.23,-4.42,On-Time
+SHP-20512,Delhi-Jaipur,Road,FastTrack Express,22.81,566.94,350,107.66,1.56,7.64,1317.28,-4.36,On-Time
+SHP-20513,Mumbai-Surat,Road,BlueDart Logistics,5.82,426.42,280,93.07,1.7,6.47,910.31,-5.53,On-Time
+SHP-20514,Delhi-Jaipur,Road,BlueDart Logistics,6.22,532.42,580,103.08,1.09,14.94,1537.79,2.94,Delayed
+SHP-20515,Delhi-Jaipur,Sea,SafeXpress,11.87,392.92,580,100.87,7.09,28.25,917.64,0.25,Delayed
+SHP-20516,Bengaluru-Chennai,Rail,VRL Freight,20.5,520.07,280,93.19,1.57,7.5,964.65,-6.5,On-Time
+SHP-20517,Mumbai-Surat,Road,FastTrack Express,19.6,587.53,280,96.91,7.19,13.3,1160.93,1.3,Delayed
+SHP-20518,Bengaluru-Chennai,Rail,FastTrack Express,14.15,343.76,560,94.23,4.81,14.11,1093.16,0.11,Delayed
+SHP-20519,Mumbai-Surat,Road,FastTrack Express,5.59,527.63,280,93.24,4.51,9.19,984.02,-2.81,On-Time
+SHP-20520,Bengaluru-Chennai,Rail,BlueDart Logistics,3.76,424.01,560,100.13,1.64,9.82,1055.29,-4.18,On-Time
+SHP-20521,Bengaluru-Chennai,Road,BlueDart Logistics,21.07,483.99,580,106.94,3.04,17.8,1673.56,5.8,Delayed
+SHP-20522,Delhi-Jaipur,Air,VRL Freight,11.23,590.45,560,97.0,3.93,4.51,3684.32,0.51,Delayed
+SHP-20523,Bengaluru-Chennai,Road,BlueDart Logistics,4.1,407.69,350,106.73,1.63,9.16,1080.15,-2.84,On-Time
+SHP-20524,Bengaluru-Chennai,Road,BlueDart Logistics,13.04,420.99,280,102.9,4.71,10.38,1018.82,-1.62,On-Time
+SHP-20525,Kolkata-Patna,Road,BlueDart Logistics,20.35,709.38,580,107.41,2.43,14.39,1807.55,2.39,Delayed
+SHP-20526,Delhi-Jaipur,Road,FastTrack Express,7.21,208.93,580,97.1,1.14,14.45,1411.51,2.45,Delayed
+SHP-20527,Mumbai-Surat,Road,BlueDart Logistics,9.49,703.64,350,94.65,8.61,15.7,1193.9,3.7,Delayed
+SHP-20528,Mumbai-Surat,Road,BlueDart Logistics,8.99,712.71,280,102.57,1.14,4.81,1112.15,-7.19,On-Time
+SHP-20529,Delhi-Jaipur,Road,FastTrack Express,11.33,286.29,280,100.63,1.15,6.28,946.3,-5.72,On-Time
+SHP-20530,Hyderabad-Pune,Rail,BlueDart Logistics,4.5,673.39,580,99.6,7.12,17.16,1187.26,3.16,Delayed
+SHP-20531,Mumbai-Surat,Road,FastTrack Express,18.91,437.84,580,96.88,1.69,13.94,1622.58,1.94,Delayed
+SHP-20532,Hyderabad-Pune,Road,SafeXpress,5.72,360.01,350,102.18,13.25,21.03,1023.51,9.03,Delayed
+SHP-20533,Mumbai-Surat,Road,FastTrack Express,13.76,494.08,580,102.16,11.5,25.67,1603.91,13.67,Delayed
+SHP-20534,Delhi-Jaipur,Road,FastTrack Express,6.31,303.21,280,99.05,1.69,7.43,898.34,-4.57,On-Time
+SHP-20535,Bengaluru-Chennai,Road,BlueDart Logistics,9.92,484.06,580,95.87,5.97,19.82,1512.0,7.82,Delayed
+SHP-20536,Mumbai-Surat,Road,VRL Freight,6.67,588.88,560,95.23,5.41,18.59,1498.74,6.59,Delayed
+SHP-20537,Mumbai-Surat,Road,VRL Freight,14.91,490.15,560,105.27,1.03,15.6,1569.72,3.6,Delayed
+SHP-20538,Bengaluru-Chennai,Road,BlueDart Logistics,2.2,681.89,350,95.77,5.0,14.35,1113.76,2.35,Delayed
+SHP-20539,Kolkata-Patna,Air,VRL Freight,15.73,476.3,580,98.42,6.76,5.24,3742.41,1.24,Delayed
+SHP-20540,Mumbai-Surat,Rail,FastTrack Express,5.2,355.68,310,99.69,2.95,6.25,699.14,-7.75,On-Time
+SHP-20541,Mumbai-Surat,Road,FastTrack Express,13.02,579.99,310,103.84,2.83,9.87,1110.54,-2.13,On-Time
+SHP-20542,Mumbai-Surat,Sea,FastTrack Express,7.0,391.21,310,97.72,1.05,16.9,640.47,-11.1,On-Time
+SHP-20543,Mumbai-Surat,Road,BlueDart Logistics,7.3,451.65,560,102.63,1.76,14.36,1472.86,2.36,Delayed
+SHP-20544,Mumbai-Surat,Air,BlueDart Logistics,20.79,488.53,310,96.54,8.04,6.44,2293.53,2.44,Delayed
+SHP-20545,Mumbai-Surat,Road,SafeXpress,7.9,564.84,580,97.31,1.55,13.42,1572.06,1.42,Delayed
+SHP-20546,Kolkata-Patna,Road,BlueDart Logistics,15.35,294.56,280,105.72,1.83,11.3,993.94,-0.7,On-Time
+SHP-20547,Mumbai-Surat,Road,VRL Freight,19.59,593.58,350,104.73,6.07,15.77,1338.88,3.77,Delayed
+SHP-20548,Bengaluru-Chennai,Road,VRL Freight,3.94,352.26,280,98.98,3.32,9.31,857.03,-2.69,On-Time
+SHP-20549,Bengaluru-Chennai,Rail,BlueDart Logistics,37.12,629.73,350,107.64,4.3,11.41,1295.35,-2.59,On-Time
+SHP-20550,Mumbai-Surat,Air,FastTrack Express,7.64,353.91,280,95.93,3.19,4.62,1964.53,0.62,Delayed
+SHP-20551,Mumbai-Surat,Sea,VRL Freight,10.03,705.12,280,100.56,8.15,20.33,799.86,-7.67,On-Time
+SHP-20552,Delhi-Jaipur,Rail,VRL Freight,11.91,333.26,310,97.18,1.19,7.82,823.09,-6.18,On-Time
+SHP-20553,Mumbai-Surat,Rail,FastTrack Express,5.2,407.41,560,93.02,8.07,18.05,1028.63,4.05,Delayed
+SHP-20554,Mumbai-Surat,Road,FastTrack Express,5.96,559.43,350,94.09,3.18,13.24,1098.77,1.24,Delayed
+SHP-20555,Hyderabad-Pune,Rail,SafeXpress,17.13,587.69,580,106.27,2.6,13.9,1306.69,-0.1,On-Time
+SHP-20556,Mumbai-Surat,Air,BlueDart Logistics,5.7,441.56,350,93.63,2.05,1.5,2354.81,-2.5,On-Time
+SHP-20557,Mumbai-Surat,Road,FastTrack Express,22.76,613.53,310,97.35,12.51,17.48,1247.54,5.48,Delayed
+SHP-20558,Mumbai-Surat,Air,BlueDart Logistics,4.07,470.35,310,107.28,4.89,4.62,2141.32,0.62,Delayed
+SHP-20559,Bengaluru-Chennai,Road,BlueDart Logistics,11.64,558.28,350,98.91,5.3,14.8,1235.45,2.8,Delayed
+SHP-20560,Kolkata-Patna,Rail,FastTrack Express,12.11,451.45,310,102.37,11.1,18.11,886.68,4.11,Delayed
+SHP-20561,Kolkata-Patna,Rail,BlueDart Logistics,7.92,491.35,350,106.09,6.59,12.37,875.08,-1.63,On-Time
+SHP-20562,Mumbai-Surat,Sea,FastTrack Express,17.76,460.01,560,105.71,3.71,26.7,996.21,-1.3,On-Time
+SHP-20563,Bengaluru-Chennai,Road,FastTrack Express,9.88,226.61,350,105.02,11.77,22.44,996.8,10.44,Delayed
+SHP-20564,Bengaluru-Chennai,Road,VRL Freight,7.07,445.31,280,100.98,1.46,10.94,937.25,-1.06,On-Time
+SHP-20565,Kolkata-Patna,Rail,FastTrack Express,12.62,370.25,280,99.48,2.32,6.8,780.03,-7.2,On-Time
+SHP-20566,Kolkata-Patna,Air,SafeXpress,21.48,627.7,350,96.27,11.44,10.88,2651.41,6.88,Delayed
+SHP-20567,Delhi-Jaipur,Road,BlueDart Logistics,30.97,336.37,310,101.3,11.36,20.12,1252.77,8.12,Delayed
+SHP-20568,Delhi-Jaipur,Sea,FastTrack Express,5.5,321.55,280,94.51,1.67,10.89,588.2,-17.11,On-Time
+SHP-20569,Mumbai-Surat,Sea,BlueDart Logistics,27.25,537.89,350,96.34,3.26,15.63,974.24,-12.37,On-Time
+SHP-20570,Bengaluru-Chennai,Road,FastTrack Express,19.09,385.01,350,95.66,22.37,29.57,1222.83,17.57,Delayed
+SHP-20571,Bengaluru-Chennai,Rail,BlueDart Logistics,12.72,402.66,280,102.19,2.03,6.55,781.1,-7.45,On-Time
+SHP-20572,Delhi-Jaipur,Sea,VRL Freight,11.03,335.44,350,107.49,5.61,19.69,703.01,-8.31,On-Time
+SHP-20573,Hyderabad-Pune,Road,VRL Freight,5.64,472.81,350,106.36,5.52,13.83,1062.1,1.83,Delayed
+SHP-20574,Bengaluru-Chennai,Road,FastTrack Express,15.15,457.52,280,94.44,1.37,9.61,1060.49,-2.39,On-Time
+SHP-20575,Kolkata-Patna,Road,FastTrack Express,11.05,402.35,560,96.07,2.91,15.67,1455.53,3.67,Delayed
+SHP-20576,Delhi-Jaipur,Road,VRL Freight,6.43,477.8,580,104.49,15.3,27.75,1519.81,15.75,Delayed
+SHP-20577,Bengaluru-Chennai,Road,SafeXpress,6.08,335.27,310,93.4,1.4,6.44,933.1,-5.56,On-Time
+SHP-20578,Mumbai-Surat,Road,FastTrack Express,4.47,245.97,350,93.86,4.01,11.29,957.32,-0.71,On-Time
+SHP-20579,Hyderabad-Pune,Road,SafeXpress,5.83,212.83,560,107.99,2.29,13.33,1332.18,1.33,Delayed
+SHP-20580,Delhi-Jaipur,Road,SafeXpress,5.53,434.15,310,103.48,2.43,8.05,981.8,-3.95,On-Time
+SHP-20581,Bengaluru-Chennai,Road,FastTrack Express,14.19,386.57,280,105.83,1.01,7.11,995.43,-4.89,On-Time
+SHP-20582,Mumbai-Surat,Road,VRL Freight,15.15,396.07,560,92.73,4.17,17.61,1526.4,5.61,Delayed
+SHP-20583,Mumbai-Surat,Road,VRL Freight,12.4,553.84,310,102.02,2.68,12.43,1164.23,0.43,Delayed
+SHP-20584,Mumbai-Surat,Sea,VRL Freight,9.54,386.23,280,107.89,2.44,11.89,661.38,-16.11,On-Time
+SHP-20585,Mumbai-Surat,Road,BlueDart Logistics,14.01,586.5,560,100.06,8.05,22.4,1620.59,10.4,Delayed
+SHP-20586,Mumbai-Surat,Air,BlueDart Logistics,5.46,454.54,280,96.29,1.14,3.14,1977.12,-0.86,On-Time
+SHP-20587,Mumbai-Surat,Road,BlueDart Logistics,4.1,509.67,580,96.85,1.68,13.22,1469.59,1.22,Delayed
+SHP-20588,Delhi-Jaipur,Road,FastTrack Express,5.18,522.58,560,96.03,8.75,19.13,1457.31,7.13,Delayed
+SHP-20589,Mumbai-Surat,Road,BlueDart Logistics,8.86,401.77,350,107.89,2.55,11.38,1101.19,-0.62,On-Time
+SHP-20590,Kolkata-Patna,Sea,SafeXpress,7.03,318.63,350,97.86,6.83,21.62,610.48,-6.38,On-Time
+SHP-20591,Kolkata-Patna,Rail,VRL Freight,26.18,54.94,580,99.42,1.05,10.34,1175.95,-3.66,On-Time
+SHP-20592,Kolkata-Patna,Road,SafeXpress,7.15,214.65,350,104.37,7.89,14.92,1030.72,2.92,Delayed
+SHP-20593,Delhi-Jaipur,Air,VRL Freight,9.56,487.17,580,95.8,4.69,4.01,3680.34,0.01,Delayed
+SHP-20594,Hyderabad-Pune,Air,SafeXpress,6.82,566.41,560,92.74,10.82,11.52,3585.16,7.52,Delayed
+SHP-20595,Mumbai-Surat,Rail,FastTrack Express,11.51,258.53,350,105.38,2.57,9.08,802.0,-4.92,On-Time
+SHP-20596,Mumbai-Surat,Road,FastTrack Express,12.9,469.76,350,105.3,4.6,11.88,1181.85,-0.12,On-Time
+SHP-20597,Delhi-Jaipur,Road,BlueDart Logistics,20.68,401.54,310,99.41,6.25,12.1,1157.72,0.1,Delayed
+SHP-20598,Kolkata-Patna,Air,SafeXpress,15.04,523.85,580,101.56,2.71,4.18,3793.54,0.18,Delayed
+SHP-20599,Mumbai-Surat,Road,VRL Freight,17.79,525.01,280,103.72,9.97,16.46,1128.94,4.46,Delayed
+SHP-20600,Delhi-Jaipur,Sea,FastTrack Express,3.37,402.66,560,100.49,1.35,25.27,785.49,-2.73,On-Time
+SHP-20601,Bengaluru-Chennai,Road,BlueDart Logistics,7.78,466.43,280,105.49,2.46,7.55,1004.75,-4.45,On-Time
+SHP-20602,Delhi-Jaipur,Road,BlueDart Logistics,8.76,491.84,350,98.88,7.15,11.83,1153.4,-0.17,On-Time
+SHP-20603,Bengaluru-Chennai,Sea,BlueDart Logistics,10.76,424.93,560,93.04,1.85,24.2,884.17,-3.8,On-Time
+SHP-20604,Delhi-Jaipur,Rail,BlueDart Logistics,13.37,151.76,310,98.3,4.83,11.49,709.61,-2.51,On-Time
+SHP-20605,Bengaluru-Chennai,Air,SafeXpress,15.99,451.5,310,107.39,1.78,1.5,2317.04,-2.5,On-Time
+SHP-20606,Kolkata-Patna,Road,FastTrack Express,7.09,348.7,350,104.12,9.38,17.74,1041.26,5.74,Delayed
+SHP-20607,Hyderabad-Pune,Road,FastTrack Express,10.89,345.77,580,103.94,10.98,25.27,1512.25,13.27,Delayed
+SHP-20608,Mumbai-Surat,Road,SafeXpress,12.46,434.28,310,104.62,1.28,7.97,1095.65,-4.03,On-Time
+SHP-20609,Mumbai-Surat,Sea,FastTrack Express,21.08,496.82,350,107.7,8.82,21.76,892.34,-6.24,On-Time
+SHP-20610,Hyderabad-Pune,Road,BlueDart Logistics,5.28,278.69,310,100.05,18.41,25.6,929.51,13.6,Delayed
+SHP-20611,Delhi-Jaipur,Sea,FastTrack Express,5.14,493.01,580,97.59,2.94,25.45,845.3,-2.55,On-Time
+SHP-20612,Hyderabad-Pune,Road,BlueDart Logistics,7.86,451.89,580,95.1,2.08,14.63,1487.81,2.63,Delayed
+SHP-20613,Hyderabad-Pune,Sea,SafeXpress,1.74,539.85,280,101.75,4.98,13.56,643.01,-14.44,On-Time
+SHP-20614,Delhi-Jaipur,Road,FastTrack Express,9.59,373.41,310,101.11,2.18,9.58,1041.35,-2.42,On-Time
+SHP-20615,Delhi-Jaipur,Road,BlueDart Logistics,8.18,424.84,580,99.33,1.04,15.43,1473.5,3.43,Delayed
+SHP-20616,Delhi-Jaipur,Road,VRL Freight,4.7,450.22,350,95.33,1.72,10.36,1058.73,-1.64,On-Time
+SHP-20617,Delhi-Jaipur,Sea,FastTrack Express,0.83,328.0,310,106.98,1.42,14.91,611.06,-13.09,On-Time
+SHP-20618,Bengaluru-Chennai,Road,FastTrack Express,12.42,452.21,560,102.76,2.78,13.67,1554.56,1.67,Delayed
+SHP-20619,Mumbai-Surat,Road,FastTrack Express,7.22,356.88,280,107.7,8.6,12.97,931.46,0.97,Delayed
+SHP-20620,Hyderabad-Pune,Air,SafeXpress,6.43,354.59,560,103.21,1.96,1.79,3508.32,-2.21,On-Time
+SHP-20621,Mumbai-Surat,Road,SafeXpress,11.3,348.0,310,104.09,1.65,6.83,1000.78,-5.17,On-Time
+SHP-20622,Mumbai-Surat,Sea,BlueDart Logistics,5.23,420.87,280,94.21,4.95,16.4,610.94,-11.6,On-Time
+SHP-20623,Bengaluru-Chennai,Road,SafeXpress,8.75,443.63,280,99.16,1.66,5.06,976.36,-6.94,On-Time
+SHP-20624,Kolkata-Patna,Air,FastTrack Express,5.04,631.92,280,94.75,4.58,4.0,2024.45,0.0,On-Time
+SHP-20625,Hyderabad-Pune,Road,FastTrack Express,13.26,514.04,280,96.34,5.79,13.83,1052.45,1.83,Delayed
+SHP-20626,Delhi-Jaipur,Road,VRL Freight,15.77,433.83,310,101.82,12.71,16.16,1113.09,4.16,Delayed
+SHP-20627,Hyderabad-Pune,Road,SafeXpress,11.29,343.5,560,102.48,1.59,14.72,1450.14,2.72,Delayed
+SHP-20628,Bengaluru-Chennai,Road,BlueDart Logistics,13.45,330.27,280,94.95,3.36,10.39,970.85,-1.61,On-Time
+SHP-20629,Mumbai-Surat,Road,FastTrack Express,9.35,547.38,280,102.45,4.69,11.56,1046.53,-0.44,On-Time
+SHP-20630,Hyderabad-Pune,Air,VRL Freight,26.08,506.81,350,93.53,8.49,10.03,2634.53,6.03,Delayed
+SHP-20631,Mumbai-Surat,Road,VRL Freight,12.16,521.4,350,99.87,3.34,13.23,1169.93,1.23,Delayed
+SHP-20632,Delhi-Jaipur,Road,SafeXpress,18.18,536.33,280,96.02,1.65,5.7,1138.83,-6.3,On-Time
+SHP-20633,Kolkata-Patna,Road,SafeXpress,10.56,677.54,560,94.86,1.69,12.27,1624.34,0.27,Delayed
+SHP-20634,Bengaluru-Chennai,Road,FastTrack Express,6.36,601.9,580,92.13,5.89,15.66,1536.95,3.66,Delayed
+SHP-20635,Kolkata-Patna,Sea,FastTrack Express,10.84,556.4,350,98.54,5.77,21.16,788.04,-6.84,On-Time
+SHP-20636,Mumbai-Surat,Road,FastTrack Express,7.75,333.97,280,103.57,3.57,8.69,960.82,-3.31,On-Time
+SHP-20637,Bengaluru-Chennai,Road,SafeXpress,11.06,314.25,350,105.73,1.44,10.75,1091.6,-1.25,On-Time
+SHP-20638,Delhi-Jaipur,Rail,FastTrack Express,16.61,573.21,560,98.94,3.36,12.7,1248.54,-1.3,On-Time
+SHP-20639,Delhi-Jaipur,Road,VRL Freight,7.92,439.49,580,104.15,3.69,19.64,1494.83,7.64,Delayed
+SHP-20640,Delhi-Jaipur,Rail,FastTrack Express,19.65,732.51,350,107.08,3.33,9.67,1134.62,-4.33,On-Time
+SHP-20641,Hyderabad-Pune,Road,VRL Freight,24.77,363.62,280,100.15,5.46,12.89,1107.85,0.89,Delayed
+SHP-20642,Kolkata-Patna,Road,BlueDart Logistics,5.81,512.68,280,100.98,2.42,9.92,985.25,-2.08,On-Time
+SHP-20643,Delhi-Jaipur,Road,VRL Freight,2.61,682.42,580,97.18,2.07,15.39,1486.24,3.39,Delayed
+SHP-20644,Delhi-Jaipur,Sea,FastTrack Express,10.59,396.49,280,103.98,1.09,12.77,717.68,-15.23,On-Time
+SHP-20645,Bengaluru-Chennai,Sea,VRL Freight,16.5,474.81,310,98.81,3.7,15.9,839.53,-12.1,On-Time
+SHP-20646,Delhi-Jaipur,Rail,SafeXpress,21.52,370.15,580,102.69,8.92,18.36,1238.45,4.36,Delayed
+SHP-20647,Delhi-Jaipur,Rail,BlueDart Logistics,3.96,492.68,350,100.47,9.27,15.64,801.83,1.64,Delayed
+SHP-20648,Kolkata-Patna,Road,FastTrack Express,12.79,424.57,350,100.37,1.51,9.83,1154.03,-2.17,On-Time
+SHP-20649,Kolkata-Patna,Sea,BlueDart Logistics,14.35,469.27,280,99.98,7.08,17.69,770.97,-10.31,On-Time
+SHP-20650,Delhi-Jaipur,Air,BlueDart Logistics,8.3,330.26,580,104.88,3.48,7.42,3606.08,3.42,Delayed
+SHP-20651,Delhi-Jaipur,Road,BlueDart Logistics,10.06,552.03,310,97.51,2.19,10.79,1046.74,-1.21,On-Time
+SHP-20652,Delhi-Jaipur,Rail,FastTrack Express,4.99,450.28,350,103.72,5.62,12.82,827.94,-1.18,On-Time
+SHP-20653,Bengaluru-Chennai,Road,VRL Freight,11.89,407.42,350,92.61,1.53,9.01,1084.58,-2.99,On-Time
+SHP-20654,Delhi-Jaipur,Sea,FastTrack Express,6.37,371.04,580,97.11,9.08,34.29,831.47,6.29,Delayed
+SHP-20655,Hyderabad-Pune,Sea,FastTrack Express,8.54,555.68,350,104.5,4.47,17.76,765.01,-10.24,On-Time
+SHP-20656,Kolkata-Patna,Road,SafeXpress,4.06,482.43,310,106.62,3.98,10.92,998.1,-1.08,On-Time
+SHP-20657,Delhi-Jaipur,Rail,SafeXpress,15.31,460.36,580,106.53,5.95,19.86,1217.37,5.86,Delayed
+SHP-20658,Delhi-Jaipur,Road,FastTrack Express,9.38,558.48,580,101.63,1.31,14.9,1557.77,2.9,Delayed
+SHP-20659,Bengaluru-Chennai,Air,FastTrack Express,10.69,483.06,280,104.98,10.82,12.65,2034.61,8.65,Delayed
+SHP-20660,Delhi-Jaipur,Air,BlueDart Logistics,10.71,325.05,560,95.4,6.45,9.61,3511.62,5.61,Delayed
+SHP-20661,Delhi-Jaipur,Rail,SafeXpress,26.37,320.87,310,106.34,12.05,15.22,991.44,1.22,Delayed
+SHP-20662,Kolkata-Patna,Road,BlueDart Logistics,5.64,457.54,580,97.87,3.4,16.78,1506.49,4.78,Delayed
+SHP-20663,Kolkata-Patna,Air,VRL Freight,10.71,429.23,350,103.73,18.66,19.62,2413.69,15.62,Delayed
+SHP-20664,Kolkata-Patna,Road,FastTrack Express,5.79,370.14,580,101.81,5.2,17.81,1442.1,5.81,Delayed
+SHP-20665,Bengaluru-Chennai,Rail,FastTrack Express,13.86,609.61,580,102.15,1.41,10.75,1201.66,-3.25,On-Time
+SHP-20666,Delhi-Jaipur,Road,BlueDart Logistics,3.62,561.71,580,97.6,5.72,15.85,1516.21,3.85,Delayed
+SHP-20667,Kolkata-Patna,Road,BlueDart Logistics,14.28,561.11,280,98.59,11.36,19.95,1056.32,7.95,Delayed
+SHP-20668,Delhi-Jaipur,Air,SafeXpress,6.52,543.68,560,107.57,8.51,11.53,3605.41,7.53,Delayed
+SHP-20669,Mumbai-Surat,Rail,SafeXpress,26.09,510.21,350,105.63,1.8,7.75,1104.97,-6.25,On-Time
+SHP-20670,Delhi-Jaipur,Rail,BlueDart Logistics,7.3,516.3,310,101.02,6.5,12.67,859.83,-1.33,On-Time
+SHP-20671,Kolkata-Patna,Rail,FastTrack Express,18.35,572.49,310,94.21,13.49,19.18,930.36,5.18,Delayed
+SHP-20672,Hyderabad-Pune,Air,FastTrack Express,13.3,298.3,580,101.64,4.0,2.91,3678.1,-1.09,On-Time
+SHP-20673,Mumbai-Surat,Sea,SafeXpress,8.11,327.13,560,96.21,2.66,25.02,807.68,-2.98,On-Time
+SHP-20674,Bengaluru-Chennai,Rail,VRL Freight,3.79,310.38,560,102.36,1.87,10.98,965.24,-3.02,On-Time
+SHP-20675,Kolkata-Patna,Road,VRL Freight,19.14,255.31,350,107.2,4.2,10.53,1141.97,-1.47,On-Time
+SHP-20676,Delhi-Jaipur,Road,VRL Freight,21.17,382.25,580,93.19,1.97,12.44,1661.19,0.44,Delayed
+SHP-20677,Bengaluru-Chennai,Air,BlueDart Logistics,10.85,650.27,580,94.74,2.58,2.18,3743.23,-1.82,On-Time
+SHP-20678,Delhi-Jaipur,Road,VRL Freight,14.87,168.85,310,95.64,8.37,15.1,953.73,3.1,Delayed
+SHP-20679,Delhi-Jaipur,Road,FastTrack Express,10.16,321.31,350,92.77,2.82,11.53,1084.14,-0.47,On-Time
+SHP-20680,Mumbai-Surat,Rail,SafeXpress,7.39,509.76,580,92.4,1.77,11.26,1112.0,-2.74,On-Time
+SHP-20681,Bengaluru-Chennai,Road,VRL Freight,29.15,396.07,560,93.38,11.36,25.06,1736.04,13.06,Delayed
+SHP-20682,Delhi-Jaipur,Road,VRL Freight,21.65,447.75,580,93.56,6.53,19.85,1642.54,7.85,Delayed
+SHP-20683,Kolkata-Patna,Road,VRL Freight,11.6,443.56,580,98.95,1.17,14.01,1569.75,2.01,Delayed
+SHP-20684,Delhi-Jaipur,Road,FastTrack Express,9.56,483.96,350,107.87,3.38,8.06,1139.86,-3.94,On-Time
+SHP-20685,Mumbai-Surat,Road,BlueDart Logistics,9.85,403.44,560,105.37,1.71,15.55,1503.49,3.55,Delayed
+SHP-20686,Mumbai-Surat,Rail,SafeXpress,8.64,357.65,280,105.88,4.98,11.42,740.87,-2.58,On-Time
+SHP-20687,Kolkata-Patna,Rail,BlueDart Logistics,9.84,348.89,560,100.76,2.08,9.43,1082.49,-4.57,On-Time
+SHP-20688,Delhi-Jaipur,Road,BlueDart Logistics,9.52,226.32,310,100.79,2.16,7.33,946.38,-4.67,On-Time
+SHP-20689,Bengaluru-Chennai,Road,FastTrack Express,2.64,255.16,310,92.12,10.7,18.16,871.48,6.16,Delayed
+SHP-20690,Mumbai-Surat,Road,VRL Freight,5.74,777.89,580,96.77,1.52,17.43,1631.89,5.43,Delayed
+SHP-20691,Delhi-Jaipur,Road,BlueDart Logistics,5.59,438.33,280,101.19,3.12,9.15,973.29,-2.85,On-Time
+SHP-20692,Bengaluru-Chennai,Rail,FastTrack Express,15.73,744.02,280,98.9,5.27,11.74,1003.5,-2.26,On-Time
+SHP-20693,Bengaluru-Chennai,Air,SafeXpress,14.5,344.83,310,94.44,4.9,5.5,2216.63,1.5,Delayed
+SHP-20694,Mumbai-Surat,Road,BlueDart Logistics,19.2,447.86,350,98.26,3.45,12.62,1212.94,0.62,Delayed
+SHP-20695,Mumbai-Surat,Rail,VRL Freight,8.25,716.1,580,104.91,3.88,15.2,1237.15,1.2,Delayed
+SHP-20696,Mumbai-Surat,Road,FastTrack Express,14.96,474.26,280,100.02,14.66,22.74,1068.9,10.74,Delayed
+SHP-20697,Delhi-Jaipur,Sea,SafeXpress,29.65,564.04,350,96.22,2.0,15.49,1047.09,-12.51,On-Time
+SHP-20698,Bengaluru-Chennai,Road,BlueDart Logistics,2.75,348.3,280,104.82,1.27,10.18,863.28,-1.82,On-Time
+SHP-20699,Delhi-Jaipur,Road,VRL Freight,13.24,634.8,560,92.25,3.14,16.87,1624.23,4.87,Delayed
+SHP-20700,Kolkata-Patna,Sea,FastTrack Express,4.5,416.07,310,99.01,1.94,13.78,596.35,-14.22,On-Time
+SHP-20701,Kolkata-Patna,Rail,BlueDart Logistics,12.89,497.73,350,102.19,1.58,8.93,947.24,-5.07,On-Time
+SHP-20702,Kolkata-Patna,Air,BlueDart Logistics,7.64,458.56,280,100.8,9.89,10.03,2003.13,6.03,Delayed
+SHP-20703,Delhi-Jaipur,Rail,VRL Freight,13.16,358.12,580,97.37,5.26,15.4,1150.66,1.4,Delayed
+SHP-20704,Mumbai-Surat,Road,FastTrack Express,4.82,522.64,310,104.58,1.88,8.88,1036.14,-3.12,On-Time
+SHP-20705,Delhi-Jaipur,Rail,FastTrack Express,10.36,642.74,280,98.17,3.19,8.9,871.07,-5.1,On-Time
+SHP-20706,Bengaluru-Chennai,Rail,FastTrack Express,15.3,453.71,580,92.03,3.48,14.52,1181.91,0.52,Delayed
+SHP-20707,Mumbai-Surat,Road,FastTrack Express,1.71,365.24,560,93.27,1.02,12.84,1401.91,0.84,Delayed
+SHP-20708,Bengaluru-Chennai,Road,SafeXpress,10.67,326.96,580,106.98,3.2,18.82,1467.74,6.82,Delayed
+SHP-20709,Mumbai-Surat,Air,BlueDart Logistics,9.42,639.28,280,95.03,5.96,7.51,2115.28,3.51,Delayed
+SHP-20710,Delhi-Jaipur,Rail,VRL Freight,9.13,671.57,350,96.83,2.23,6.28,945.58,-7.72,On-Time
+SHP-20711,Mumbai-Surat,Road,SafeXpress,4.78,473.34,580,92.86,4.7,15.83,1503.93,3.83,Delayed
+SHP-20712,Mumbai-Surat,Road,SafeXpress,9.81,345.59,560,94.49,1.35,15.92,1420.74,3.92,Delayed
+SHP-20713,Mumbai-Surat,Road,FastTrack Express,14.94,474.38,280,94.77,3.33,12.62,1040.21,0.62,Delayed
+SHP-20714,Mumbai-Surat,Road,BlueDart Logistics,8.0,200.63,280,95.31,1.41,6.95,843.43,-5.05,On-Time
+SHP-20715,Bengaluru-Chennai,Air,BlueDart Logistics,5.51,551.71,580,98.45,1.61,3.47,3712.85,-0.53,On-Time
+SHP-20716,Mumbai-Surat,Road,BlueDart Logistics,4.45,580.83,350,102.08,1.71,9.6,1114.12,-2.4,On-Time
+SHP-20717,Delhi-Jaipur,Rail,SafeXpress,6.94,242.03,280,107.67,6.17,10.5,647.48,-3.5,On-Time
+SHP-20718,Mumbai-Surat,Rail,FastTrack Express,8.18,329.57,580,106.28,4.96,14.69,1028.33,0.69,Delayed
+SHP-20719,Delhi-Jaipur,Rail,FastTrack Express,9.79,388.86,350,105.57,5.65,10.22,847.8,-3.78,On-Time
+SHP-20720,Hyderabad-Pune,Air,FastTrack Express,5.1,463.12,560,97.16,2.0,1.5,3507.98,-2.5,On-Time
+SHP-20721,Bengaluru-Chennai,Road,FastTrack Express,11.64,386.12,310,96.39,7.4,14.4,1036.08,2.4,Delayed
+SHP-20722,Delhi-Jaipur,Road,SafeXpress,25.27,525.19,560,93.65,6.02,19.0,1717.8,7.0,Delayed
+SHP-20723,Bengaluru-Chennai,Road,VRL Freight,11.08,301.1,560,101.69,6.81,20.86,1483.43,8.86,Delayed
+SHP-20724,Delhi-Jaipur,Road,BlueDart Logistics,16.47,537.95,580,92.96,4.54,14.71,1636.51,2.71,Delayed
+SHP-20725,Kolkata-Patna,Sea,FastTrack Express,21.37,356.42,350,99.17,2.32,13.85,855.61,-14.15,On-Time
+SHP-20726,Kolkata-Patna,Road,FastTrack Express,28.03,285.63,310,95.97,2.54,11.65,1183.29,-0.35,On-Time
+SHP-20727,Mumbai-Surat,Road,SafeXpress,10.05,367.66,350,94.96,1.95,13.24,1069.16,1.24,Delayed
+SHP-20728,Bengaluru-Chennai,Sea,SafeXpress,16.86,522.23,560,94.24,2.01,23.22,1043.35,-4.78,On-Time
+SHP-20729,Bengaluru-Chennai,Road,SafeXpress,19.01,341.18,280,107.24,1.56,7.85,1049.4,-4.15,On-Time
+SHP-20730,Bengaluru-Chennai,Rail,FastTrack Express,44.74,688.22,280,96.52,6.42,10.59,1364.33,-3.41,On-Time
+SHP-20731,Hyderabad-Pune,Road,BlueDart Logistics,8.6,421.81,580,94.57,4.07,16.64,1492.19,4.64,Delayed
+SHP-20732,Delhi-Jaipur,Road,SafeXpress,9.11,378.46,280,99.46,2.22,6.01,943.24,-5.99,On-Time
+SHP-20733,Bengaluru-Chennai,Road,BlueDart Logistics,6.98,459.09,310,93.75,7.22,17.08,1010.17,5.08,Delayed
+SHP-20734,Mumbai-Surat,Rail,VRL Freight,13.87,358.36,310,106.05,3.43,10.98,841.75,-3.02,On-Time
+SHP-20735,Mumbai-Surat,Rail,VRL Freight,1.65,512.25,310,100.54,1.31,8.71,735.09,-5.29,On-Time
+SHP-20736,Delhi-Jaipur,Road,BlueDart Logistics,8.44,532.71,280,99.46,8.44,14.06,1034.08,2.06,Delayed
+SHP-20737,Mumbai-Surat,Road,FastTrack Express,34.38,471.08,310,105.88,4.12,12.1,1324.54,0.1,Delayed
+SHP-20738,Delhi-Jaipur,Rail,FastTrack Express,10.92,350.26,560,106.38,5.53,15.81,1070.81,1.81,Delayed
+SHP-20739,Bengaluru-Chennai,Air,FastTrack Express,14.94,321.25,560,100.33,6.7,7.71,3552.3,3.71,Delayed
+SHP-20740,Delhi-Jaipur,Air,BlueDart Logistics,23.7,255.2,580,95.93,10.05,11.79,3759.76,7.79,Delayed
+SHP-20741,Bengaluru-Chennai,Sea,BlueDart Logistics,1.03,287.3,580,101.99,1.67,25.28,761.1,-2.72,On-Time
+SHP-20742,Delhi-Jaipur,Road,FastTrack Express,18.35,536.23,580,101.05,7.51,18.52,1665.8,6.52,Delayed
+SHP-20743,Delhi-Jaipur,Rail,BlueDart Logistics,13.96,443.45,280,94.6,2.14,6.32,868.45,-7.68,On-Time
+SHP-20744,Delhi-Jaipur,Rail,BlueDart Logistics,30.07,327.65,310,107.24,2.32,9.15,1010.79,-4.85,On-Time
+SHP-20745,Bengaluru-Chennai,Road,BlueDart Logistics,16.28,482.63,350,95.61,11.4,18.12,1226.35,6.12,Delayed
+SHP-20746,Mumbai-Surat,Rail,VRL Freight,34.51,710.36,560,102.48,6.11,16.18,1514.49,2.18,Delayed
+SHP-20747,Hyderabad-Pune,Rail,BlueDart Logistics,16.04,566.2,310,94.74,1.11,6.0,923.9,-8.0,On-Time
+SHP-20748,Kolkata-Patna,Road,BlueDart Logistics,26.79,455.75,580,106.07,1.33,14.15,1742.22,2.15,Delayed
+SHP-20749,Delhi-Jaipur,Air,BlueDart Logistics,8.61,304.0,280,107.34,3.43,4.42,1954.35,0.42,Delayed
+SHP-20750,Delhi-Jaipur,Road,BlueDart Logistics,17.58,427.42,310,106.32,5.81,11.17,1173.42,-0.83,On-Time
+SHP-20751,Kolkata-Patna,Road,SafeXpress,4.0,758.49,350,101.62,2.27,10.7,1172.2,-1.3,On-Time
+SHP-20752,Kolkata-Patna,Rail,FastTrack Express,11.68,712.01,580,104.81,1.58,11.19,1286.27,-2.81,On-Time
+SHP-20753,Bengaluru-Chennai,Road,FastTrack Express,7.36,613.13,560,106.43,4.35,17.34,1525.27,5.34,Delayed
+SHP-20754,Mumbai-Surat,Rail,BlueDart Logistics,6.66,491.01,280,93.05,1.3,4.29,738.57,-9.71,On-Time
+SHP-20755,Hyderabad-Pune,Rail,VRL Freight,5.16,401.63,280,99.11,5.47,12.84,728.37,-1.16,On-Time
+SHP-20756,Kolkata-Patna,Road,SafeXpress,7.92,506.26,560,93.73,2.28,17.94,1495.0,5.94,Delayed
+SHP-20757,Delhi-Jaipur,Road,SafeXpress,6.28,314.31,580,105.42,6.66,20.84,1423.86,8.84,Delayed
+SHP-20758,Delhi-Jaipur,Road,BlueDart Logistics,5.56,550.58,560,92.55,1.17,11.83,1473.04,-0.17,On-Time
+SHP-20759,Kolkata-Patna,Rail,FastTrack Express,8.56,368.49,560,94.26,1.32,11.36,1022.59,-2.64,On-Time
+SHP-20760,Mumbai-Surat,Road,SafeXpress,6.44,553.36,310,102.9,5.04,10.73,1072.88,-1.27,On-Time
+SHP-20761,Hyderabad-Pune,Road,BlueDart Logistics,26.87,306.62,580,99.96,8.37,21.68,1699.96,9.68,Delayed
+SHP-20762,Bengaluru-Chennai,Road,VRL Freight,11.23,347.76,580,102.55,1.87,15.11,1475.53,3.11,Delayed
+SHP-20763,Mumbai-Surat,Road,FastTrack Express,22.57,454.33,280,99.32,5.01,13.07,1144.85,1.07,Delayed
+SHP-20764,Bengaluru-Chennai,Air,SafeXpress,8.99,550.43,560,104.36,3.2,4.63,3608.19,0.63,Delayed
+SHP-20765,Mumbai-Surat,Road,FastTrack Express,6.2,409.94,280,103.42,4.94,12.27,928.9,0.27,Delayed
+SHP-20766,Hyderabad-Pune,Rail,FastTrack Express,9.88,167.73,310,105.86,8.59,14.49,717.98,0.49,Delayed
+SHP-20767,Kolkata-Patna,Air,SafeXpress,19.67,194.62,580,95.33,4.3,7.29,3688.87,3.29,Delayed
+SHP-20768,Bengaluru-Chennai,Sea,SafeXpress,14.9,47.24,310,94.84,10.72,22.01,597.19,-5.99,On-Time
+SHP-20769,Mumbai-Surat,Road,BlueDart Logistics,9.53,563.75,310,105.93,5.01,11.41,1085.05,-0.59,On-Time
+SHP-20770,Mumbai-Surat,Road,VRL Freight,7.89,667.81,580,104.53,1.63,13.36,1610.44,1.36,Delayed
+SHP-20771,Mumbai-Surat,Sea,SafeXpress,5.56,577.4,350,97.57,1.09,15.41,755.26,-12.59,On-Time
+SHP-20772,Kolkata-Patna,Road,VRL Freight,6.77,536.66,580,104.89,13.66,26.28,1534.37,14.28,Delayed
+SHP-20773,Delhi-Jaipur,Road,BlueDart Logistics,11.09,610.85,280,92.95,7.03,13.96,1081.49,1.96,Delayed
+SHP-20774,Bengaluru-Chennai,Rail,BlueDart Logistics,9.53,617.81,280,96.13,4.07,7.72,846.95,-6.28,On-Time
+SHP-20775,Bengaluru-Chennai,Road,SafeXpress,10.9,498.87,310,93.13,3.94,6.18,1066.87,-5.82,On-Time
+SHP-20776,Mumbai-Surat,Air,BlueDart Logistics,16.2,592.1,310,106.65,6.53,7.5,2310.53,3.5,Delayed
+SHP-20777,Mumbai-Surat,Road,FastTrack Express,17.58,528.03,350,103.74,2.47,9.66,1261.52,-2.34,On-Time
+SHP-20778,Bengaluru-Chennai,Road,FastTrack Express,20.35,578.47,560,94.62,3.85,18.93,1656.97,6.93,Delayed
+SHP-20779,Kolkata-Patna,Road,VRL Freight,13.37,247.56,350,101.3,5.09,10.04,1084.74,-1.96,On-Time
+SHP-20780,Mumbai-Surat,Road,BlueDart Logistics,27.95,462.74,560,101.72,4.77,18.56,1747.95,6.56,Delayed
+SHP-20781,Delhi-Jaipur,Air,SafeXpress,7.75,521.97,310,101.01,2.67,3.86,2219.38,-0.14,On-Time
+SHP-20782,Kolkata-Patna,Road,VRL Freight,1.69,198.22,580,94.91,2.45,15.56,1311.69,3.56,Delayed
+SHP-20783,Bengaluru-Chennai,Road,VRL Freight,10.4,291.96,350,94.92,2.34,10.51,1057.98,-1.49,On-Time
+SHP-20784,Delhi-Jaipur,Road,BlueDart Logistics,12.9,432.91,350,94.67,3.76,13.09,1160.32,1.09,Delayed
+SHP-20785,Hyderabad-Pune,Road,BlueDart Logistics,8.83,444.01,580,97.09,1.64,15.05,1533.98,3.05,Delayed
+SHP-20786,Kolkata-Patna,Road,FastTrack Express,8.88,308.8,350,95.72,4.55,9.19,1071.42,-2.81,On-Time
+SHP-20787,Delhi-Jaipur,Air,BlueDart Logistics,8.3,392.79,280,100.42,1.09,1.5,1963.65,-2.5,On-Time
+SHP-20788,Mumbai-Surat,Road,BlueDart Logistics,7.47,482.11,310,105.57,2.52,6.07,1043.5,-5.93,On-Time
+SHP-20789,Delhi-Jaipur,Sea,BlueDart Logistics,16.62,512.79,580,94.18,1.22,23.58,1015.72,-4.42,On-Time
+SHP-20790,Delhi-Jaipur,Road,SafeXpress,7.87,609.76,280,95.56,1.72,6.65,1037.18,-5.35,On-Time
+SHP-20791,Delhi-Jaipur,Road,BlueDart Logistics,18.2,276.44,310,101.23,4.14,10.68,1079.78,-1.32,On-Time
+SHP-20792,Mumbai-Surat,Road,VRL Freight,11.43,597.93,560,100.51,3.39,14.36,1599.48,2.36,Delayed
+SHP-20793,Mumbai-Surat,Air,SafeXpress,6.35,381.38,350,93.08,9.16,9.85,2341.05,5.85,Delayed
+SHP-20794,Kolkata-Patna,Air,BlueDart Logistics,15.91,197.03,280,100.15,1.28,4.06,1977.67,0.06,Delayed
+SHP-20795,Hyderabad-Pune,Road,FastTrack Express,19.14,544.71,350,105.22,1.71,9.77,1258.52,-2.23,On-Time
+SHP-20796,Delhi-Jaipur,Road,BlueDart Logistics,3.02,473.99,560,105.61,1.41,14.66,1449.11,2.66,Delayed
+SHP-20797,Mumbai-Surat,Road,VRL Freight,5.91,545.59,280,102.39,2.98,7.99,1018.62,-4.01,On-Time
+SHP-20798,Mumbai-Surat,Rail,VRL Freight,4.19,302.96,280,102.14,3.49,8.78,686.27,-5.22,On-Time
+SHP-20799,Kolkata-Patna,Road,VRL Freight,7.96,351.26,560,107.84,3.54,18.51,1456.42,6.51,Delayed
+SHP-20800,Bengaluru-Chennai,Road,BlueDart Logistics,8.64,388.92,280,98.94,5.81,13.88,943.98,1.88,Delayed
+SHP-20801,Mumbai-Surat,Rail,VRL Freight,8.83,546.01,280,101.35,4.47,11.02,839.18,-2.98,On-Time
+SHP-20802,Delhi-Jaipur,Air,FastTrack Express,7.84,259.29,310,101.5,9.15,9.65,2101.33,5.65,Delayed
+SHP-20803,Mumbai-Surat,Air,BlueDart Logistics,15.15,520.62,280,107.3,4.16,3.56,2130.49,-0.44,On-Time
+SHP-20804,Mumbai-Surat,Road,VRL Freight,10.19,408.31,580,101.73,13.74,25.34,1510.34,13.34,Delayed
+SHP-20805,Kolkata-Patna,Road,BlueDart Logistics,34.02,471.45,310,100.4,3.41,11.16,1338.93,-0.84,On-Time
+SHP-20806,Mumbai-Surat,Road,BlueDart Logistics,13.48,516.05,560,95.06,4.71,16.63,1572.6,4.63,Delayed
+SHP-20807,Mumbai-Surat,Road,SafeXpress,4.11,335.92,280,102.93,3.17,9.19,865.29,-2.81,On-Time
+SHP-20808,Delhi-Jaipur,Air,VRL Freight,12.82,539.72,580,104.66,7.96,6.72,3739.02,2.72,Delayed
+SHP-20809,Kolkata-Patna,Rail,SafeXpress,4.94,626.15,350,94.81,2.44,6.7,881.17,-7.3,On-Time
+SHP-20810,Kolkata-Patna,Rail,SafeXpress,9.75,489.71,560,92.3,1.66,11.59,1139.34,-2.41,On-Time
+SHP-20811,Mumbai-Surat,Road,SafeXpress,12.92,555.54,280,107.96,6.0,11.9,1125.67,-0.1,On-Time
+SHP-20812,Delhi-Jaipur,Road,BlueDart Logistics,32.72,386.52,580,93.61,3.58,15.25,1760.48,3.25,Delayed
+SHP-20813,Bengaluru-Chennai,Road,FastTrack Express,17.89,231.28,310,105.71,5.12,11.15,1067.24,-0.85,On-Time
+SHP-20814,Mumbai-Surat,Sea,FastTrack Express,14.1,551.86,310,94.02,8.79,20.66,788.45,-7.34,On-Time
+SHP-20815,Mumbai-Surat,Road,BlueDart Logistics,21.75,331.79,560,107.62,3.36,17.97,1604.36,5.97,Delayed
+SHP-20816,Kolkata-Patna,Road,VRL Freight,5.11,413.34,310,101.78,12.24,19.64,1001.49,7.64,Delayed
+SHP-20817,Mumbai-Surat,Rail,FastTrack Express,8.48,605.19,280,101.09,4.11,8.37,850.62,-5.63,On-Time
+SHP-20818,Mumbai-Surat,Rail,FastTrack Express,12.2,459.86,350,93.32,2.26,9.87,895.84,-4.13,On-Time
+SHP-20819,Mumbai-Surat,Road,SafeXpress,5.6,589.12,310,94.17,1.41,8.13,1059.04,-3.87,On-Time
+SHP-20820,Bengaluru-Chennai,Rail,FastTrack Express,16.28,666.32,350,105.67,5.6,12.52,1034.91,-1.48,On-Time
+SHP-20821,Delhi-Jaipur,Road,VRL Freight,16.76,523.97,310,101.15,1.66,8.27,1174.93,-3.73,On-Time
+SHP-20822,Delhi-Jaipur,Road,FastTrack Express,4.45,463.52,310,105.02,2.91,11.22,994.22,-0.78,On-Time
+SHP-20823,Delhi-Jaipur,Road,VRL Freight,7.66,709.64,580,94.37,1.3,14.33,1627.78,2.33,Delayed
+SHP-20824,Kolkata-Patna,Sea,BlueDart Logistics,30.23,244.48,310,101.23,1.47,12.33,878.24,-15.67,On-Time
+SHP-20825,Mumbai-Surat,Road,VRL Freight,5.53,494.94,310,105.26,6.69,8.41,1046.89,-3.59,On-Time
+SHP-20826,Kolkata-Patna,Road,FastTrack Express,8.85,388.48,560,104.12,1.49,12.8,1479.11,0.8,Delayed
+SHP-20827,Kolkata-Patna,Road,VRL Freight,11.12,660.85,280,103.94,2.45,9.33,1105.9,-2.67,On-Time
+SHP-20828,Hyderabad-Pune,Sea,VRL Freight,4.16,410.3,350,103.59,2.04,14.01,638.24,-13.99,On-Time
+SHP-20829,Delhi-Jaipur,Rail,FastTrack Express,22.93,485.09,580,99.86,5.52,14.36,1312.86,0.36,Delayed
+SHP-20830,Mumbai-Surat,Rail,BlueDart Logistics,16.26,641.2,580,95.9,2.21,9.71,1306.53,-4.29,On-Time
+SHP-20831,Kolkata-Patna,Rail,SafeXpress,6.41,465.98,310,98.7,5.98,10.8,825.77,-3.2,On-Time
+SHP-20832,Bengaluru-Chennai,Air,SafeXpress,18.72,444.32,350,104.21,5.87,4.94,2526.11,0.94,Delayed
+SHP-20833,Mumbai-Surat,Air,VRL Freight,3.96,375.99,350,95.21,1.3,1.5,2284.83,-2.5,On-Time
+SHP-20834,Delhi-Jaipur,Rail,BlueDart Logistics,37.62,312.44,560,97.29,2.69,11.4,1367.75,-2.6,On-Time
+SHP-20835,Delhi-Jaipur,Sea,SafeXpress,11.63,255.42,280,94.4,8.49,21.38,569.54,-6.62,On-Time
+SHP-20836,Delhi-Jaipur,Road,SafeXpress,30.97,502.03,560,101.18,3.0,15.48,1785.96,3.48,Delayed
+SHP-20837,Kolkata-Patna,Air,FastTrack Express,21.08,228.62,350,101.4,1.14,2.35,2454.38,-1.65,On-Time
+SHP-20838,Delhi-Jaipur,Road,FastTrack Express,7.19,291.24,580,103.3,5.34,18.6,1434.83,6.6,Delayed
+SHP-20839,Mumbai-Surat,Rail,FastTrack Express,21.5,446.58,580,104.86,10.79,19.66,1291.02,5.66,Delayed
+SHP-20840,Hyderabad-Pune,Road,FastTrack Express,15.01,423.46,580,101.2,1.89,12.87,1601.43,0.87,Delayed
+SHP-20841,Mumbai-Surat,Road,BlueDart Logistics,21.39,525.91,560,93.73,5.59,21.9,1680.97,9.9,Delayed
+SHP-20842,Mumbai-Surat,Road,VRL Freight,18.31,355.56,580,99.2,9.37,21.75,1600.02,9.75,Delayed
+SHP-20843,Delhi-Jaipur,Road,VRL Freight,2.69,719.5,580,104.96,8.46,22.07,1599.48,10.07,Delayed
+SHP-20844,Bengaluru-Chennai,Rail,SafeXpress,16.41,447.71,580,92.17,9.43,18.72,1183.65,4.72,Delayed
+SHP-20845,Hyderabad-Pune,Sea,SafeXpress,5.12,471.45,280,99.87,6.21,17.89,613.34,-10.11,On-Time
+SHP-20846,Kolkata-Patna,Rail,SafeXpress,7.01,588.56,580,96.9,5.52,13.74,1121.1,-0.26,On-Time
+SHP-20847,Mumbai-Surat,Rail,BlueDart Logistics,16.37,418.24,310,93.68,13.21,20.37,905.96,6.37,Delayed
+SHP-20848,Hyderabad-Pune,Road,BlueDart Logistics,21.49,457.6,580,100.75,7.43,21.35,1684.11,9.35,Delayed
+SHP-20849,Delhi-Jaipur,Road,FastTrack Express,9.66,481.9,350,98.7,3.77,12.97,1144.52,0.97,Delayed
+SHP-20850,Delhi-Jaipur,Road,FastTrack Express,4.21,360.49,310,92.81,2.64,8.15,937.94,-3.85,On-Time
+SHP-20851,Bengaluru-Chennai,Road,SafeXpress,5.04,380.76,310,102.63,1.23,6.26,940.79,-5.74,On-Time
+SHP-20852,Bengaluru-Chennai,Sea,VRL Freight,2.76,450.58,280,94.46,2.17,16.18,565.55,-11.82,On-Time
+SHP-20853,Hyderabad-Pune,Road,BlueDart Logistics,20.33,417.66,580,102.15,5.34,18.15,1661.21,6.15,Delayed
+SHP-20854,Kolkata-Patna,Sea,FastTrack Express,4.63,411.33,580,101.46,5.13,25.19,829.44,-2.81,On-Time
+SHP-20855,Bengaluru-Chennai,Rail,SafeXpress,13.02,223.19,310,95.76,1.55,6.66,745.37,-7.34,On-Time
+SHP-20856,Kolkata-Patna,Rail,BlueDart Logistics,12.36,456.69,580,96.65,3.42,9.87,1157.02,-4.13,On-Time
+SHP-20857,Bengaluru-Chennai,Road,VRL Freight,6.01,187.99,280,94.13,2.08,9.93,842.3,-2.07,On-Time
+SHP-20858,Delhi-Jaipur,Rail,VRL Freight,30.47,478.73,580,99.14,1.55,11.32,1403.13,-2.68,On-Time
+SHP-20859,Mumbai-Surat,Road,FastTrack Express,10.18,450.22,310,100.05,1.4,6.82,1039.26,-5.18,On-Time
+SHP-20860,Delhi-Jaipur,Road,FastTrack Express,11.61,433.29,310,105.52,6.83,13.25,1071.86,1.25,Delayed
+SHP-20861,Kolkata-Patna,Road,SafeXpress,9.82,459.64,280,101.46,6.95,9.33,1017.66,-2.67,On-Time
+SHP-20862,Mumbai-Surat,Rail,SafeXpress,14.41,505.92,350,99.58,4.26,10.93,1001.58,-3.07,On-Time
+SHP-20863,Mumbai-Surat,Road,SafeXpress,10.94,347.78,350,99.36,3.2,11.54,1090.57,-0.46,On-Time
+SHP-20864,Kolkata-Patna,Rail,SafeXpress,16.73,378.42,310,101.6,1.76,6.27,882.03,-7.73,On-Time
+SHP-20865,Mumbai-Surat,Road,VRL Freight,8.57,617.9,310,92.88,3.59,8.3,1148.01,-3.7,On-Time
+SHP-20866,Mumbai-Surat,Road,BlueDart Logistics,16.88,330.06,560,102.63,1.45,12.46,1495.65,0.46,Delayed
+SHP-20867,Delhi-Jaipur,Road,SafeXpress,13.99,385.11,350,97.5,1.69,10.73,1113.89,-1.27,On-Time
+SHP-20868,Delhi-Jaipur,Air,BlueDart Logistics,1.47,466.46,580,97.64,8.42,11.01,3597.31,7.01,Delayed
+SHP-20869,Bengaluru-Chennai,Road,BlueDart Logistics,17.28,434.98,280,103.28,1.52,8.13,1071.97,-3.87,On-Time
+SHP-20870,Delhi-Jaipur,Sea,FastTrack Express,4.93,467.54,560,103.89,4.18,28.91,837.98,0.91,Delayed
+SHP-20871,Hyderabad-Pune,Air,SafeXpress,22.71,472.01,350,102.08,3.91,7.17,2577.03,3.17,Delayed
+SHP-20872,Mumbai-Surat,Road,BlueDart Logistics,9.76,385.21,310,95.6,7.78,16.46,1033.43,4.46,Delayed
+SHP-20873,Mumbai-Surat,Road,BlueDart Logistics,10.25,473.48,560,105.07,6.4,21.17,1513.66,9.17,Delayed
+SHP-20874,Bengaluru-Chennai,Road,FastTrack Express,16.17,700.57,560,98.12,2.66,13.59,1653.6,1.59,Delayed
+SHP-20875,Bengaluru-Chennai,Rail,BlueDart Logistics,5.75,495.79,580,105.42,1.86,11.37,1152.79,-2.63,On-Time
+SHP-20876,Mumbai-Surat,Rail,BlueDart Logistics,10.85,466.03,560,107.34,5.08,16.61,1136.83,2.61,Delayed
+SHP-20877,Bengaluru-Chennai,Road,SafeXpress,17.07,446.6,560,92.06,4.6,18.67,1557.51,6.67,Delayed
+SHP-20878,Bengaluru-Chennai,Rail,SafeXpress,12.25,360.9,280,97.75,2.25,5.15,776.08,-8.85,On-Time
+SHP-20879,Kolkata-Patna,Road,BlueDart Logistics,11.34,584.65,280,103.03,8.21,14.26,1057.21,2.26,Delayed
+SHP-20880,Bengaluru-Chennai,Road,BlueDart Logistics,6.97,474.41,560,102.98,3.24,14.56,1474.08,2.56,Delayed
+SHP-20881,Hyderabad-Pune,Road,VRL Freight,11.41,278.95,280,100.81,5.16,10.41,934.5,-1.59,On-Time
+SHP-20882,Mumbai-Surat,Road,FastTrack Express,10.25,461.49,310,102.61,3.37,11.84,1086.96,-0.16,On-Time
+SHP-20883,Mumbai-Surat,Road,BlueDart Logistics,11.17,512.63,580,94.17,9.91,23.75,1537.76,11.75,Delayed
+SHP-20884,Mumbai-Surat,Road,SafeXpress,3.14,388.77,350,95.33,2.39,10.56,974.82,-1.44,On-Time
+SHP-20885,Delhi-Jaipur,Sea,SafeXpress,5.79,454.43,560,99.28,4.57,25.51,827.25,-2.49,On-Time
+SHP-20886,Mumbai-Surat,Rail,VRL Freight,6.4,299.36,310,96.61,5.54,11.43,709.4,-2.57,On-Time
+SHP-20887,Mumbai-Surat,Road,VRL Freight,19.27,444.78,560,106.12,1.83,14.84,1624.99,2.84,Delayed
+SHP-20888,Kolkata-Patna,Air,FastTrack Express,8.98,486.99,280,105.39,28.73,29.41,2023.42,25.41,Delayed
+SHP-20889,Mumbai-Surat,Road,FastTrack Express,10.0,590.34,560,103.54,6.91,20.02,1548.98,8.02,Delayed
+SHP-20890,Bengaluru-Chennai,Rail,SafeXpress,5.39,473.7,350,99.1,2.8,8.09,808.64,-5.91,On-Time
+SHP-20891,Mumbai-Surat,Road,FastTrack Express,15.18,359.87,350,103.81,4.1,12.07,1138.17,0.07,Delayed
+SHP-20892,Mumbai-Surat,Road,SafeXpress,15.34,357.09,280,101.39,4.23,10.5,1040.97,-1.5,On-Time
+SHP-20893,Mumbai-Surat,Road,FastTrack Express,11.36,668.94,560,107.75,10.13,20.56,1618.52,8.56,Delayed
+SHP-20894,Hyderabad-Pune,Rail,SafeXpress,15.71,454.75,310,97.23,7.73,15.45,871.3,1.45,Delayed
+SHP-20895,Mumbai-Surat,Road,FastTrack Express,17.73,421.29,580,92.17,9.25,21.52,1580.74,9.52,Delayed
+SHP-20896,Bengaluru-Chennai,Air,SafeXpress,16.57,632.07,580,103.94,2.04,3.1,3843.73,-0.9,On-Time
+SHP-20897,Delhi-Jaipur,Air,BlueDart Logistics,4.04,629.09,350,96.67,5.91,7.07,2399.59,3.07,Delayed
+SHP-20898,Mumbai-Surat,Road,VRL Freight,5.84,589.6,280,99.24,5.32,10.51,1023.05,-1.49,On-Time
+SHP-20899,Bengaluru-Chennai,Air,FastTrack Express,11.28,451.37,350,101.8,2.86,3.2,2421.01,-0.8,On-Time
+SHP-20900,Mumbai-Surat,Road,FastTrack Express,3.97,396.31,560,107.27,2.46,15.73,1415.56,3.73,Delayed
+SHP-20901,Mumbai-Surat,Road,SafeXpress,6.6,472.43,350,93.71,6.61,16.73,1077.1,4.73,Delayed
+SHP-20902,Delhi-Jaipur,Rail,BlueDart Logistics,7.42,202.09,580,100.37,6.28,17.15,1010.23,3.15,Delayed
+SHP-20903,Delhi-Jaipur,Road,SafeXpress,6.58,397.98,280,93.11,1.73,9.14,922.73,-2.86,On-Time
+SHP-20904,Delhi-Jaipur,Road,VRL Freight,2.36,652.28,280,106.01,2.78,9.38,996.47,-2.62,On-Time
+SHP-20905,Mumbai-Surat,Road,BlueDart Logistics,10.98,412.83,350,106.77,1.77,8.14,1121.07,-3.86,On-Time
+SHP-20906,Bengaluru-Chennai,Road,BlueDart Logistics,35.14,514.76,310,92.97,1.18,5.0,1378.56,-7.0,On-Time
+SHP-20907,Hyderabad-Pune,Road,VRL Freight,6.92,539.6,310,102.34,3.01,10.31,1065.96,-1.69,On-Time
+SHP-20908,Kolkata-Patna,Rail,VRL Freight,28.01,181.27,560,101.66,2.06,13.02,1191.14,-0.98,On-Time
+SHP-20909,Delhi-Jaipur,Rail,FastTrack Express,15.86,639.27,280,100.55,14.56,19.04,975.14,5.04,Delayed
+SHP-20910,Kolkata-Patna,Air,BlueDart Logistics,14.52,261.44,310,102.28,11.7,11.78,2187.52,7.78,Delayed
+SHP-20911,Mumbai-Surat,Rail,SafeXpress,18.17,303.98,560,99.47,9.42,20.31,1132.93,6.31,Delayed
+SHP-20912,Hyderabad-Pune,Rail,BlueDart Logistics,15.02,345.62,350,102.37,4.87,13.55,855.78,-0.45,On-Time
+SHP-20913,Delhi-Jaipur,Air,BlueDart Logistics,14.71,573.57,350,94.01,3.6,5.59,2506.78,1.59,Delayed
+SHP-20914,Delhi-Jaipur,Road,BlueDart Logistics,7.64,601.76,560,92.81,7.46,17.86,1565.73,5.86,Delayed
+SHP-20915,Hyderabad-Pune,Rail,VRL Freight,7.35,214.16,580,101.67,2.77,14.67,983.03,0.67,Delayed
+SHP-20916,Bengaluru-Chennai,Road,BlueDart Logistics,9.47,611.54,350,103.43,3.04,9.15,1182.46,-2.85,On-Time
+SHP-20917,Delhi-Jaipur,Road,BlueDart Logistics,15.42,516.31,580,96.9,3.03,17.85,1623.16,5.85,Delayed
+SHP-20918,Mumbai-Surat,Road,SafeXpress,16.13,429.13,580,102.37,4.62,17.27,1579.53,5.27,Delayed
+SHP-20919,Delhi-Jaipur,Rail,BlueDart Logistics,2.33,532.45,280,100.44,13.71,19.25,749.47,5.25,Delayed
+SHP-20920,Mumbai-Surat,Road,FastTrack Express,13.54,320.92,310,97.05,12.01,18.65,1023.67,6.65,Delayed
+SHP-20921,Kolkata-Patna,Rail,BlueDart Logistics,8.85,572.5,350,97.41,1.27,8.79,952.51,-5.21,On-Time
+SHP-20922,Bengaluru-Chennai,Road,FastTrack Express,6.65,679.39,280,107.68,2.47,8.03,1050.63,-3.97,On-Time
+SHP-20923,Mumbai-Surat,Road,SafeXpress,8.57,240.27,560,93.98,8.77,20.6,1433.84,8.6,Delayed
+SHP-20924,Mumbai-Surat,Road,BlueDart Logistics,9.41,444.08,310,98.85,10.32,18.61,1015.4,6.61,Delayed
+SHP-20925,Delhi-Jaipur,Road,FastTrack Express,23.81,373.22,580,98.36,4.94,16.03,1626.59,4.03,Delayed
+SHP-20926,Hyderabad-Pune,Air,FastTrack Express,16.37,399.98,580,95.47,5.21,7.68,3702.2,3.68,Delayed
+SHP-20927,Mumbai-Surat,Rail,FastTrack Express,24.0,477.38,350,93.62,2.76,9.6,1053.22,-4.4,On-Time
+SHP-20928,Mumbai-Surat,Road,VRL Freight,3.85,541.04,350,94.14,1.4,10.91,1096.68,-1.09,On-Time
+SHP-20929,Delhi-Jaipur,Air,BlueDart Logistics,5.89,575.77,580,101.28,1.29,1.5,3689.64,-2.5,On-Time
+SHP-20930,Kolkata-Patna,Rail,BlueDart Logistics,16.64,622.22,560,100.37,2.85,14.15,1236.35,0.15,Delayed
+SHP-20931,Hyderabad-Pune,Rail,BlueDart Logistics,8.1,339.11,580,104.74,1.04,9.71,1085.8,-4.29,On-Time
+SHP-20932,Bengaluru-Chennai,Road,SafeXpress,4.51,489.31,280,107.79,1.49,3.03,949.03,-8.97,On-Time
+SHP-20933,Delhi-Jaipur,Road,FastTrack Express,6.13,524.06,280,92.67,1.93,8.3,971.3,-3.7,On-Time
+SHP-20934,Mumbai-Surat,Road,FastTrack Express,10.94,377.76,560,97.07,9.75,22.2,1480.43,10.2,Delayed
+SHP-20935,Bengaluru-Chennai,Rail,BlueDart Logistics,13.22,593.01,310,92.18,1.67,8.38,919.45,-5.62,On-Time
+SHP-20936,Mumbai-Surat,Rail,VRL Freight,22.88,567.27,280,92.25,1.16,6.52,1004.38,-7.48,On-Time
+SHP-20937,Delhi-Jaipur,Rail,BlueDart Logistics,4.44,424.87,280,102.24,3.02,7.11,714.51,-6.89,On-Time
+SHP-20938,Delhi-Jaipur,Rail,FastTrack Express,9.96,251.52,580,95.4,9.31,20.63,1004.28,6.63,Delayed
+SHP-20939,Mumbai-Surat,Air,BlueDart Logistics,29.62,738.79,280,96.25,1.18,3.91,2389.42,-0.09,On-Time
+SHP-20940,Delhi-Jaipur,Road,SafeXpress,1.73,271.67,580,95.24,3.84,14.99,1369.07,2.99,Delayed
+SHP-20941,Kolkata-Patna,Road,BlueDart Logistics,10.79,659.11,280,106.08,13.16,21.41,1127.37,9.41,Delayed
+SHP-20942,Mumbai-Surat,Road,VRL Freight,8.5,346.16,350,102.87,1.03,9.05,1047.68,-2.95,On-Time
+SHP-20943,Hyderabad-Pune,Road,BlueDart Logistics,21.65,483.68,310,98.98,6.37,15.82,1226.68,3.82,Delayed
+SHP-20944,Mumbai-Surat,Road,VRL Freight,15.27,507.8,280,105.48,2.94,8.0,1049.44,-4.0,On-Time
+SHP-20945,Hyderabad-Pune,Rail,SafeXpress,8.71,351.42,350,101.72,6.0,10.02,796.26,-3.98,On-Time
+SHP-20946,Bengaluru-Chennai,Rail,FastTrack Express,9.77,322.31,560,105.36,1.97,11.14,1029.75,-2.86,On-Time
+SHP-20947,Delhi-Jaipur,Road,FastTrack Express,11.46,493.35,350,104.81,1.15,9.66,1165.12,-2.34,On-Time
+SHP-20948,Mumbai-Surat,Rail,SafeXpress,15.12,466.36,310,97.33,6.73,10.48,896.97,-3.52,On-Time
+SHP-20949,Mumbai-Surat,Sea,BlueDart Logistics,12.7,383.41,350,92.96,2.02,16.66,747.8,-11.34,On-Time
+SHP-20950,Bengaluru-Chennai,Road,FastTrack Express,5.38,435.57,580,106.43,7.71,19.61,1478.01,7.61,Delayed
+SHP-20951,Delhi-Jaipur,Sea,FastTrack Express,12.23,305.21,280,105.58,1.22,9.62,627.22,-18.38,On-Time
+SHP-20952,Bengaluru-Chennai,Road,VRL Freight,3.59,372.57,280,100.71,6.58,10.86,873.02,-1.14,On-Time
+SHP-20953,Bengaluru-Chennai,Road,VRL Freight,3.53,300.35,580,94.64,4.34,21.47,1404.22,9.47,Delayed
+SHP-20954,Delhi-Jaipur,Sea,VRL Freight,24.64,477.85,310,102.21,1.83,16.07,909.81,-11.93,On-Time
+SHP-20955,Bengaluru-Chennai,Rail,SafeXpress,14.22,310.4,580,104.5,2.82,13.28,1114.19,-0.72,On-Time
+SHP-20956,Mumbai-Surat,Air,SafeXpress,14.34,425.18,280,96.97,3.9,3.89,2053.82,-0.11,On-Time
+SHP-20957,Kolkata-Patna,Road,BlueDart Logistics,3.23,624.48,560,100.65,1.94,14.69,1526.34,2.69,Delayed
+SHP-20958,Mumbai-Surat,Road,FastTrack Express,4.23,571.6,350,93.59,5.14,12.21,1069.96,0.21,Delayed
+SHP-20959,Delhi-Jaipur,Road,SafeXpress,5.58,479.29,350,103.5,3.97,17.16,1094.04,5.16,Delayed
+SHP-20960,Delhi-Jaipur,Road,FastTrack Express,6.53,580.34,280,100.6,1.16,6.5,1026.07,-5.5,On-Time
+SHP-20961,Mumbai-Surat,Road,FastTrack Express,4.45,276.87,580,97.63,7.34,20.61,1371.98,8.61,Delayed
+SHP-20962,Delhi-Jaipur,Air,FastTrack Express,30.55,275.15,280,95.09,2.39,4.02,2184.02,0.02,Delayed
+SHP-20963,Bengaluru-Chennai,Road,FastTrack Express,12.96,294.03,280,97.92,5.2,10.65,957.48,-1.35,On-Time
+SHP-20964,Delhi-Jaipur,Road,FastTrack Express,27.37,469.77,350,102.22,2.9,9.81,1375.93,-2.19,On-Time
+SHP-20965,Delhi-Jaipur,Rail,FastTrack Express,4.16,373.52,580,106.67,5.99,17.95,1017.4,3.95,Delayed
+SHP-20966,Bengaluru-Chennai,Rail,FastTrack Express,18.98,236.36,350,93.17,2.26,8.94,881.27,-5.06,On-Time
+SHP-20967,Bengaluru-Chennai,Road,SafeXpress,10.49,560.42,350,103.56,1.01,11.93,1174.6,-0.07,On-Time
+SHP-20968,Delhi-Jaipur,Road,VRL Freight,7.53,541.2,580,103.75,10.5,22.64,1576.93,10.64,Delayed
+SHP-20969,Delhi-Jaipur,Air,VRL Freight,3.29,442.0,580,99.71,2.6,3.97,3603.6,-0.03,On-Time
+SHP-20970,Delhi-Jaipur,Rail,BlueDart Logistics,9.81,654.49,350,101.56,1.05,3.87,958.82,-10.13,On-Time
+SHP-20971,Mumbai-Surat,Air,SafeXpress,3.9,517.09,310,103.99,6.42,8.62,2214.08,4.62,Delayed
+SHP-20972,Kolkata-Patna,Rail,SafeXpress,8.69,419.04,310,100.02,1.09,7.87,805.48,-6.13,On-Time
+SHP-20973,Hyderabad-Pune,Road,VRL Freight,7.66,263.65,310,98.97,4.25,11.92,956.43,-0.08,On-Time
+SHP-20974,Delhi-Jaipur,Rail,FastTrack Express,2.07,476.64,560,106.56,1.18,10.57,1047.9,-3.43,On-Time
+SHP-20975,Bengaluru-Chennai,Road,FastTrack Express,14.73,461.8,280,107.46,1.37,7.48,1083.03,-4.52,On-Time
+SHP-20976,Delhi-Jaipur,Rail,FastTrack Express,12.25,259.2,350,101.03,6.19,15.75,808.7,1.75,Delayed
+SHP-20977,Bengaluru-Chennai,Road,VRL Freight,11.01,525.69,310,105.41,1.83,9.87,1100.75,-2.13,On-Time
+SHP-20978,Mumbai-Surat,Air,BlueDart Logistics,7.54,374.64,350,93.9,4.98,7.14,2331.46,3.14,Delayed
+SHP-20979,Bengaluru-Chennai,Road,BlueDart Logistics,1.72,409.28,560,103.64,3.84,17.18,1401.44,5.18,Delayed
+SHP-20980,Hyderabad-Pune,Road,FastTrack Express,9.49,398.97,560,95.69,4.76,18.87,1463.74,6.87,Delayed
+SHP-20981,Mumbai-Surat,Road,FastTrack Express,9.43,398.32,560,96.87,1.8,16.05,1478.97,4.05,Delayed
+SHP-20982,Kolkata-Patna,Road,FastTrack Express,10.15,484.07,310,92.31,5.13,13.45,1088.58,1.45,Delayed
+SHP-20983,Delhi-Jaipur,Rail,FastTrack Express,10.6,464.13,280,100.3,4.72,8.5,792.22,-5.5,On-Time
+SHP-20984,Mumbai-Surat,Road,SafeXpress,26.33,579.44,560,107.99,5.73,18.47,1777.04,6.47,Delayed
+SHP-20985,Delhi-Jaipur,Rail,BlueDart Logistics,15.58,348.45,580,106.55,2.65,12.09,1128.01,-1.91,On-Time
+SHP-20986,Mumbai-Surat,Air,BlueDart Logistics,18.2,472.69,280,105.73,2.32,2.42,2153.34,-1.58,On-Time
+SHP-20987,Mumbai-Surat,Road,BlueDart Logistics,14.15,454.35,310,106.56,9.72,16.06,1119.13,4.06,Delayed
+SHP-20988,Bengaluru-Chennai,Sea,FastTrack Express,6.66,318.74,280,96.75,6.28,17.43,584.95,-10.57,On-Time
+SHP-20989,Kolkata-Patna,Rail,VRL Freight,23.1,433.34,280,96.69,3.14,6.47,934.29,-7.53,On-Time
+SHP-20990,Kolkata-Patna,Rail,BlueDart Logistics,5.61,336.54,580,94.5,5.5,17.24,1027.44,3.24,Delayed
+SHP-20991,Bengaluru-Chennai,Road,SafeXpress,17.63,375.25,560,97.58,4.28,17.49,1562.32,5.49,Delayed
+SHP-20992,Kolkata-Patna,Rail,VRL Freight,5.71,509.4,560,106.32,8.79,20.12,1083.71,6.12,Delayed
+SHP-20993,Mumbai-Surat,Air,BlueDart Logistics,14.75,467.28,280,103.16,3.69,3.31,2126.74,-0.69,On-Time
+SHP-20994,Delhi-Jaipur,Air,SafeXpress,19.05,633.22,580,94.53,1.93,3.61,3891.72,-0.39,On-Time
+SHP-20995,Mumbai-Surat,Road,FastTrack Express,10.94,395.25,310,99.26,7.17,17.26,1040.06,5.26,Delayed
+SHP-20996,Delhi-Jaipur,Sea,BlueDart Logistics,13.12,485.62,310,104.17,2.12,12.52,753.77,-15.48,On-Time
+SHP-20997,Delhi-Jaipur,Rail,SafeXpress,12.19,427.5,350,93.95,1.11,6.64,883.27,-7.36,On-Time
+SHP-20998,Kolkata-Patna,Air,BlueDart Logistics,15.99,380.92,350,94.54,8.63,8.79,2484.66,4.79,Delayed
+SHP-20999,Mumbai-Surat,Rail,VRL Freight,8.78,331.28,350,97.64,4.05,11.03,820.56,-2.97,On-Time
+SHP-21000,Kolkata-Patna,Sea,VRL Freight,9.74,596.53,310,104.03,1.18,13.36,766.56,-14.64,On-Time
+SHP-21001,Hyderabad-Pune,Road,BlueDart Logistics,14.55,272.82,310,92.44,1.79,7.97,1029.38,-4.03,On-Time
+SHP-21002,Delhi-Jaipur,Air,FastTrack Express,12.54,702.7,560,98.37,4.28,4.68,3698.62,0.68,Delayed
+SHP-21003,Mumbai-Surat,Air,SafeXpress,13.54,457.36,310,104.0,1.08,1.5,2206.88,-2.5,On-Time
+SHP-21004,Hyderabad-Pune,Road,FastTrack Express,6.28,180.75,580,98.03,1.47,13.19,1341.5,1.19,Delayed
+SHP-21005,Mumbai-Surat,Road,BlueDart Logistics,9.29,471.2,310,93.36,7.61,15.11,1049.26,3.11,Delayed
+SHP-21006,Delhi-Jaipur,Rail,SafeXpress,2.16,552.71,560,100.97,7.22,15.44,1052.08,1.44,Delayed
+SHP-21007,Delhi-Jaipur,Sea,VRL Freight,8.82,433.82,350,96.83,1.52,18.08,712.86,-9.92,On-Time
+SHP-21008,Delhi-Jaipur,Rail,VRL Freight,22.32,862.49,350,104.77,9.79,15.83,1199.77,1.83,Delayed
+SHP-21009,Kolkata-Patna,Rail,BlueDart Logistics,6.27,460.32,310,98.07,2.11,8.45,810.75,-5.55,On-Time
+SHP-21010,Delhi-Jaipur,Sea,FastTrack Express,18.11,363.88,310,94.43,1.43,12.74,755.12,-15.26,On-Time
+SHP-21011,Mumbai-Surat,Road,SafeXpress,15.41,257.39,280,104.98,3.13,10.92,961.36,-1.08,On-Time
+SHP-21012,Kolkata-Patna,Road,BlueDart Logistics,9.89,370.64,350,102.23,1.77,9.72,1091.54,-2.28,On-Time
+SHP-21013,Delhi-Jaipur,Road,VRL Freight,8.77,535.0,310,97.5,1.56,8.13,1069.97,-3.87,On-Time
+SHP-21014,Kolkata-Patna,Road,FastTrack Express,5.61,406.62,310,100.47,6.94,15.89,968.0,3.89,Delayed
+SHP-21015,Mumbai-Surat,Air,VRL Freight,14.5,323.07,280,99.09,5.06,7.58,2033.3,3.58,Delayed
+SHP-21016,Delhi-Jaipur,Rail,FastTrack Express,26.36,405.71,310,92.39,7.73,13.09,993.37,-0.91,On-Time
+SHP-21017,Kolkata-Patna,Road,FastTrack Express,29.37,411.59,310,95.31,2.8,10.21,1262.83,-1.79,On-Time
+SHP-21018,Delhi-Jaipur,Air,BlueDart Logistics,17.9,387.01,280,101.48,12.92,14.19,2096.8,10.19,Delayed
+SHP-21019,Kolkata-Patna,Road,BlueDart Logistics,9.8,754.3,580,96.25,5.7,18.25,1690.33,6.25,Delayed
+SHP-21020,Mumbai-Surat,Air,VRL Freight,18.19,479.01,350,104.05,1.39,3.4,2531.21,-0.6,On-Time
+SHP-21021,Delhi-Jaipur,Sea,BlueDart Logistics,11.15,709.63,280,93.26,3.34,13.29,791.76,-14.71,On-Time
+SHP-21022,Hyderabad-Pune,Road,BlueDart Logistics,12.75,244.74,580,107.96,1.33,12.54,1483.97,0.54,Delayed
+SHP-21023,Delhi-Jaipur,Road,BlueDart Logistics,19.76,431.36,560,104.49,2.14,11.96,1612.87,-0.04,On-Time
+SHP-21024,Delhi-Jaipur,Road,BlueDart Logistics,2.27,507.31,350,101.36,2.35,11.55,1041.81,-0.45,On-Time
+SHP-21025,Hyderabad-Pune,Rail,VRL Freight,6.17,469.3,580,101.88,4.84,16.08,1109.9,2.08,Delayed
+SHP-21026,Kolkata-Patna,Road,BlueDart Logistics,29.97,396.24,350,100.66,4.28,14.45,1318.28,2.45,Delayed
+SHP-21027,Mumbai-Surat,Air,FastTrack Express,5.91,339.35,280,102.37,4.23,5.39,1922.96,1.39,Delayed
+SHP-21028,Delhi-Jaipur,Rail,VRL Freight,14.17,498.32,580,93.07,4.83,13.32,1208.95,-0.68,On-Time
+SHP-21029,Kolkata-Patna,Air,BlueDart Logistics,10.43,490.21,350,105.15,2.46,1.85,2468.5,-2.15,On-Time
+SHP-21030,Mumbai-Surat,Road,BlueDart Logistics,10.6,638.15,580,102.82,1.84,14.86,1644.93,2.86,Delayed
+SHP-21031,Delhi-Jaipur,Road,FastTrack Express,11.12,558.37,310,98.34,2.33,6.74,1097.36,-5.26,On-Time
+SHP-21032,Mumbai-Surat,Rail,FastTrack Express,18.69,442.07,560,106.39,7.08,18.14,1225.24,4.14,Delayed
+SHP-21033,Kolkata-Patna,Road,VRL Freight,22.66,507.19,280,96.62,12.56,20.03,1185.8,8.03,Delayed
+SHP-21034,Kolkata-Patna,Road,FastTrack Express,2.67,418.64,310,103.14,7.55,15.41,984.5,3.41,Delayed
+SHP-21035,Kolkata-Patna,Road,FastTrack Express,6.15,459.25,280,105.26,8.51,18.14,936.26,6.14,Delayed
+SHP-21036,Mumbai-Surat,Road,SafeXpress,16.43,751.78,560,94.32,8.97,23.98,1717.65,11.98,Delayed
+SHP-21037,Hyderabad-Pune,Rail,FastTrack Express,4.5,310.17,580,105.49,1.99,9.87,995.96,-4.13,On-Time
+SHP-21038,Hyderabad-Pune,Rail,BlueDart Logistics,9.89,284.29,350,102.24,2.26,8.13,767.63,-5.87,On-Time
+SHP-21039,Delhi-Jaipur,Rail,SafeXpress,8.93,640.61,560,95.37,3.76,12.51,1200.68,-1.49,On-Time
+SHP-21040,Delhi-Jaipur,Road,BlueDart Logistics,5.62,407.93,280,94.44,5.22,13.99,917.91,1.99,Delayed
+SHP-21041,Hyderabad-Pune,Air,VRL Freight,16.56,363.93,580,97.76,2.45,3.32,3712.16,-0.68,On-Time
+SHP-21042,Kolkata-Patna,Road,BlueDart Logistics,2.63,536.15,560,105.27,1.22,15.19,1478.08,3.19,Delayed
+SHP-21043,Hyderabad-Pune,Sea,FastTrack Express,4.07,375.53,580,104.15,9.48,34.29,826.84,6.29,Delayed
+SHP-21044,Hyderabad-Pune,Rail,FastTrack Express,13.47,332.69,280,96.97,1.47,7.33,791.83,-6.67,On-Time
+SHP-21045,Mumbai-Surat,Road,BlueDart Logistics,18.9,476.4,310,96.83,1.11,6.66,1183.56,-5.34,On-Time
+SHP-21046,Kolkata-Patna,Air,FastTrack Express,14.77,630.67,560,106.51,7.11,5.34,3699.26,1.34,Delayed
+SHP-21047,Mumbai-Surat,Air,FastTrack Express,6.38,564.55,580,97.56,1.38,2.3,3676.67,-1.7,On-Time
+SHP-21048,Bengaluru-Chennai,Sea,VRL Freight,6.34,404.38,280,101.76,4.93,15.72,637.39,-12.28,On-Time
+SHP-21049,Hyderabad-Pune,Road,BlueDart Logistics,13.23,497.98,350,94.58,3.85,11.42,1197.84,-0.58,On-Time
+SHP-21050,Hyderabad-Pune,Air,BlueDart Logistics,19.67,461.24,310,104.71,2.54,1.98,2314.04,-2.02,On-Time
+SHP-21051,Kolkata-Patna,Road,BlueDart Logistics,3.4,306.81,280,101.49,13.24,19.79,882.07,7.79,Delayed
+SHP-21052,Delhi-Jaipur,Road,BlueDart Logistics,17.22,367.47,310,106.94,1.16,8.9,1108.27,-3.1,On-Time
+SHP-21053,Hyderabad-Pune,Road,VRL Freight,24.84,543.44,310,107.52,2.63,10.9,1296.62,-1.1,On-Time
+SHP-21054,Bengaluru-Chennai,Road,FastTrack Express,6.53,642.33,280,99.04,1.69,6.33,1021.12,-5.67,On-Time
+SHP-21055,Kolkata-Patna,Road,VRL Freight,24.93,614.54,350,93.38,1.86,9.68,1369.5,-2.32,On-Time
+SHP-21056,Delhi-Jaipur,Sea,FastTrack Express,8.7,517.21,580,95.01,1.27,26.15,905.08,-1.85,On-Time
+SHP-21057,Mumbai-Surat,Road,VRL Freight,17.84,506.2,580,92.69,2.68,15.51,1654.22,3.51,Delayed
+SHP-21058,Delhi-Jaipur,Road,SafeXpress,3.86,334.24,280,105.18,1.31,8.2,863.41,-3.8,On-Time
+SHP-21059,Delhi-Jaipur,Sea,FastTrack Express,8.76,571.07,350,104.68,4.46,23.29,805.64,-4.71,On-Time
+SHP-21060,Kolkata-Patna,Road,BlueDart Logistics,23.46,487.91,310,106.07,1.38,8.34,1244.42,-3.66,On-Time
+SHP-21061,Delhi-Jaipur,Road,VRL Freight,14.2,400.79,310,107.48,3.41,8.17,1136.98,-3.83,On-Time
+SHP-21062,Delhi-Jaipur,Road,FastTrack Express,16.38,380.63,280,105.81,1.94,7.7,1054.29,-4.3,On-Time
+SHP-21063,Hyderabad-Pune,Road,BlueDart Logistics,12.76,371.36,560,93.82,4.25,16.87,1491.05,4.87,Delayed
+SHP-21064,Kolkata-Patna,Air,FastTrack Express,13.62,416.21,560,95.4,5.31,6.58,3563.43,2.58,Delayed
+SHP-21065,Bengaluru-Chennai,Air,VRL Freight,25.25,546.34,350,92.49,7.27,6.77,2672.45,2.77,Delayed
+SHP-21066,Bengaluru-Chennai,Road,FastTrack Express,18.63,622.16,280,106.01,13.11,20.61,1151.65,8.61,Delayed
+SHP-21067,Bengaluru-Chennai,Road,SafeXpress,7.95,459.68,580,103.18,1.16,15.58,1532.41,3.58,Delayed
+SHP-21068,Bengaluru-Chennai,Sea,SafeXpress,9.34,422.55,280,104.15,7.07,19.85,687.64,-8.15,On-Time
+SHP-21069,Bengaluru-Chennai,Road,SafeXpress,29.6,596.04,560,98.43,6.08,18.45,1790.61,6.45,Delayed
+SHP-21070,Delhi-Jaipur,Road,FastTrack Express,4.48,515.14,310,103.46,3.1,10.64,1025.27,-1.36,On-Time
+SHP-21071,Mumbai-Surat,Air,VRL Freight,7.02,270.96,280,96.52,23.57,25.29,1906.15,21.29,Delayed
+SHP-21072,Mumbai-Surat,Road,FastTrack Express,5.21,457.34,560,94.65,2.31,14.15,1429.79,2.15,Delayed
+SHP-21073,Hyderabad-Pune,Road,FastTrack Express,13.41,734.2,280,100.3,6.71,11.99,1195.15,-0.01,On-Time
+SHP-21074,Delhi-Jaipur,Rail,BlueDart Logistics,11.75,413.92,280,92.6,1.91,7.3,802.06,-6.7,On-Time
+SHP-21075,Kolkata-Patna,Road,FastTrack Express,8.28,356.79,280,101.71,9.89,16.04,945.07,4.04,Delayed
+SHP-21076,Delhi-Jaipur,Rail,BlueDart Logistics,8.71,532.5,580,107.53,2.17,9.82,1156.95,-4.18,On-Time
+SHP-21077,Mumbai-Surat,Road,VRL Freight,6.1,532.46,580,100.19,1.07,14.55,1525.42,2.55,Delayed
+SHP-21078,Bengaluru-Chennai,Air,FastTrack Express,4.24,210.59,310,95.98,1.37,1.5,2030.89,-2.5,On-Time
+SHP-21079,Hyderabad-Pune,Road,FastTrack Express,2.95,366.15,560,104.05,1.33,11.61,1354.01,-0.39,On-Time
+SHP-21080,Hyderabad-Pune,Rail,SafeXpress,8.5,242.86,310,98.65,1.79,9.04,693.27,-4.96,On-Time
+SHP-21081,Kolkata-Patna,Road,FastTrack Express,9.21,574.37,280,107.34,2.79,9.92,1028.52,-2.08,On-Time
+SHP-21082,Hyderabad-Pune,Road,BlueDart Logistics,11.69,257.7,350,97.59,2.04,9.71,1054.62,-2.29,On-Time
+SHP-21083,Mumbai-Surat,Air,BlueDart Logistics,21.02,373.63,580,106.69,6.19,10.36,3797.98,6.36,Delayed
+SHP-21084,Delhi-Jaipur,Road,FastTrack Express,5.35,536.0,310,95.06,2.17,5.98,1050.87,-6.02,On-Time
+SHP-21085,Delhi-Jaipur,Road,FastTrack Express,3.08,428.92,560,101.21,1.26,16.71,1389.87,4.71,Delayed
+SHP-21086,Kolkata-Patna,Sea,VRL Freight,3.62,509.05,350,100.67,7.88,19.38,748.05,-8.62,On-Time
+SHP-21087,Delhi-Jaipur,Road,SafeXpress,10.8,447.23,350,96.11,4.88,13.91,1143.86,1.91,Delayed
+SHP-21088,Kolkata-Patna,Road,BlueDart Logistics,7.76,423.87,310,102.19,7.14,14.42,1004.37,2.42,Delayed
+SHP-21089,Kolkata-Patna,Rail,VRL Freight,8.53,314.72,350,99.57,6.99,13.49,776.88,-0.51,On-Time
+SHP-21090,Mumbai-Surat,Rail,FastTrack Express,20.75,407.02,560,95.25,5.58,16.09,1212.8,2.09,Delayed
+SHP-21091,Bengaluru-Chennai,Road,BlueDart Logistics,8.11,453.48,580,92.43,2.06,15.26,1524.99,3.26,Delayed
+SHP-21092,Delhi-Jaipur,Road,SafeXpress,8.41,549.88,560,100.84,4.19,16.98,1547.47,4.98,Delayed
+SHP-21093,Kolkata-Patna,Road,VRL Freight,9.37,213.66,310,100.02,2.99,11.7,932.56,-0.3,On-Time
+SHP-21094,Bengaluru-Chennai,Air,BlueDart Logistics,22.94,614.91,560,99.02,7.82,8.41,3773.93,4.41,Delayed
+SHP-21095,Mumbai-Surat,Road,FastTrack Express,23.04,527.83,350,104.66,3.21,10.76,1334.58,-1.24,On-Time
+SHP-21096,Bengaluru-Chennai,Road,BlueDart Logistics,14.27,335.3,560,106.95,3.0,16.31,1488.86,4.31,Delayed
+SHP-21097,Bengaluru-Chennai,Road,BlueDart Logistics,19.09,640.28,580,99.04,2.19,13.79,1724.36,1.79,Delayed
+SHP-21098,Mumbai-Surat,Road,VRL Freight,11.71,439.8,580,104.49,3.93,18.23,1522.35,6.23,Delayed
+SHP-21099,Bengaluru-Chennai,Road,VRL Freight,2.94,293.02,580,107.88,6.44,20.46,1376.64,8.46,Delayed
+SHP-21100,Bengaluru-Chennai,Sea,BlueDart Logistics,8.32,315.7,310,92.4,2.93,16.56,607.49,-11.44,On-Time
+SHP-21101,Bengaluru-Chennai,Road,BlueDart Logistics,21.93,509.34,310,94.48,9.48,14.62,1224.02,2.62,Delayed
+SHP-21102,Bengaluru-Chennai,Road,BlueDart Logistics,6.57,455.5,280,102.39,1.76,6.85,1005.31,-5.15,On-Time
+SHP-21103,Bengaluru-Chennai,Road,BlueDart Logistics,9.27,459.55,560,99.73,2.08,16.54,1503.71,4.54,Delayed
+SHP-21104,Bengaluru-Chennai,Road,SafeXpress,10.65,315.59,350,107.52,1.2,9.58,1070.04,-2.42,On-Time
+SHP-21105,Mumbai-Surat,Road,VRL Freight,3.7,334.08,350,99.64,4.55,11.18,1012.89,-0.82,On-Time
+SHP-21106,Delhi-Jaipur,Rail,FastTrack Express,9.82,399.74,580,103.99,2.67,13.66,1097.01,-0.34,On-Time
+SHP-21107,Bengaluru-Chennai,Rail,BlueDart Logistics,4.21,422.41,350,98.96,1.31,7.78,769.9,-6.22,On-Time
+SHP-21108,Mumbai-Surat,Road,FastTrack Express,10.42,578.61,560,100.01,8.47,19.98,1574.24,7.98,Delayed
+SHP-21109,Kolkata-Patna,Rail,FastTrack Express,19.56,479.51,280,104.91,3.08,8.71,934.4,-5.29,On-Time
+SHP-21110,Bengaluru-Chennai,Road,FastTrack Express,27.01,515.39,580,107.47,5.03,19.84,1795.45,7.84,Delayed
+SHP-21111,Delhi-Jaipur,Road,VRL Freight,12.21,259.96,580,100.88,2.1,12.33,1499.85,0.33,Delayed
+SHP-21112,Delhi-Jaipur,Road,BlueDart Logistics,10.38,458.03,350,104.36,4.76,13.42,1149.6,1.42,Delayed
+SHP-21113,Mumbai-Surat,Rail,FastTrack Express,12.29,438.16,350,97.99,4.76,12.3,864.22,-1.7,On-Time
+SHP-21114,Delhi-Jaipur,Road,BlueDart Logistics,10.6,620.26,310,92.66,1.89,9.84,1095.38,-2.16,On-Time
+SHP-21115,Hyderabad-Pune,Road,SafeXpress,11.33,351.58,580,97.37,4.51,19.06,1486.93,7.06,Delayed
+SHP-21116,Mumbai-Surat,Road,VRL Freight,22.49,467.09,350,101.28,4.73,14.31,1293.05,2.31,Delayed
+SHP-21117,Bengaluru-Chennai,Road,FastTrack Express,3.63,457.57,350,105.79,1.77,8.6,1045.88,-3.4,On-Time
+SHP-21118,Delhi-Jaipur,Road,FastTrack Express,4.34,574.86,350,92.99,2.79,10.67,1083.36,-1.33,On-Time
+SHP-21119,Kolkata-Patna,Road,BlueDart Logistics,26.58,657.24,580,97.74,2.3,14.42,1800.04,2.42,Delayed
+SHP-21120,Delhi-Jaipur,Rail,BlueDart Logistics,11.8,466.31,280,98.2,4.27,11.41,801.52,-2.59,On-Time
+SHP-21121,Mumbai-Surat,Road,BlueDart Logistics,17.14,487.21,560,106.23,3.43,17.16,1639.8,5.16,Delayed
+SHP-21122,Mumbai-Surat,Road,SafeXpress,1.18,393.95,350,98.59,1.74,9.13,991.57,-2.87,On-Time
+SHP-21123,Bengaluru-Chennai,Road,FastTrack Express,14.09,209.63,350,104.57,2.53,13.34,1058.67,1.34,Delayed
+SHP-21124,Mumbai-Surat,Rail,VRL Freight,16.21,377.44,560,95.86,1.37,11.29,1159.61,-2.71,On-Time
+SHP-21125,Kolkata-Patna,Air,FastTrack Express,10.97,436.28,310,104.22,1.24,2.31,2169.18,-1.69,On-Time
+SHP-21126,Kolkata-Patna,Rail,BlueDart Logistics,6.24,510.66,580,104.52,7.33,18.55,1111.06,4.55,Delayed
+SHP-21127,Mumbai-Surat,Rail,VRL Freight,6.97,198.15,350,100.1,1.36,7.16,762.34,-6.84,On-Time
+SHP-21128,Bengaluru-Chennai,Rail,SafeXpress,6.59,426.58,350,106.71,4.19,12.26,830.84,-1.74,On-Time
+SHP-21129,Bengaluru-Chennai,Sea,FastTrack Express,8.32,565.05,580,106.19,4.17,28.45,944.58,0.45,Delayed
+SHP-21130,Mumbai-Surat,Road,FastTrack Express,4.67,447.01,310,99.89,1.78,7.94,983.68,-4.06,On-Time
+SHP-21131,Mumbai-Surat,Road,VRL Freight,21.7,377.11,280,96.3,1.67,9.46,1067.04,-2.54,On-Time
+SHP-21132,Kolkata-Patna,Rail,BlueDart Logistics,7.57,570.7,560,103.65,10.56,20.05,1118.21,6.05,Delayed
+SHP-21133,Bengaluru-Chennai,Road,BlueDart Logistics,24.06,534.38,560,98.0,2.14,13.49,1705.34,1.49,Delayed
+SHP-21134,Kolkata-Patna,Air,VRL Freight,4.59,278.85,560,100.06,1.22,3.74,3454.32,-0.26,On-Time
+SHP-21135,Mumbai-Surat,Road,BlueDart Logistics,18.06,229.52,350,92.63,2.34,12.72,1086.21,0.72,Delayed
+SHP-21136,Mumbai-Surat,Rail,BlueDart Logistics,15.87,424.57,580,92.96,2.23,13.66,1168.52,-0.34,On-Time
+SHP-21137,Delhi-Jaipur,Road,BlueDart Logistics,14.34,549.16,280,92.8,3.64,11.21,1047.03,-0.79,On-Time
+SHP-21138,Mumbai-Surat,Sea,FastTrack Express,20.14,354.17,280,96.26,4.78,13.9,773.73,-14.1,On-Time
+SHP-21139,Hyderabad-Pune,Sea,BlueDart Logistics,15.3,528.78,280,102.86,3.96,16.26,806.93,-11.74,On-Time
+SHP-21140,Bengaluru-Chennai,Road,FastTrack Express,11.17,509.83,560,97.55,2.66,17.14,1553.26,5.14,Delayed
+SHP-21141,Kolkata-Patna,Air,FastTrack Express,13.88,279.42,580,105.05,6.57,6.66,3658.41,2.66,Delayed
+SHP-21142,Delhi-Jaipur,Air,FastTrack Express,6.12,456.98,560,101.18,2.01,2.86,3497.4,-1.14,On-Time
+SHP-21143,Mumbai-Surat,Road,SafeXpress,4.23,306.67,560,95.98,1.07,15.0,1365.26,3.0,Delayed
+SHP-21144,Mumbai-Surat,Road,SafeXpress,2.92,384.69,350,96.18,2.05,9.24,1018.98,-2.76,On-Time
+SHP-21145,Mumbai-Surat,Road,VRL Freight,5.61,535.35,350,104.87,8.72,14.48,1137.77,2.48,Delayed
+SHP-21146,Kolkata-Patna,Road,FastTrack Express,6.65,796.69,310,102.9,1.34,9.49,1154.53,-2.51,On-Time
+SHP-21147,Mumbai-Surat,Road,BlueDart Logistics,16.55,501.83,280,105.66,5.05,11.34,1100.56,-0.66,On-Time
+SHP-21148,Mumbai-Surat,Road,VRL Freight,40.26,104.54,580,98.06,2.07,14.17,1744.8,2.17,Delayed
+SHP-21149,Hyderabad-Pune,Road,BlueDart Logistics,3.37,479.85,560,93.97,3.22,19.24,1439.57,7.24,Delayed
+SHP-21150,Delhi-Jaipur,Road,VRL Freight,6.08,485.72,580,94.53,1.19,15.67,1515.97,3.67,Delayed
+SHP-21151,Bengaluru-Chennai,Road,FastTrack Express,1.34,471.98,310,98.63,1.56,8.39,944.59,-3.61,On-Time
+SHP-21152,Delhi-Jaipur,Air,VRL Freight,12.44,339.95,350,95.76,1.38,1.84,2375.47,-2.16,On-Time
+SHP-21153,Delhi-Jaipur,Rail,FastTrack Express,5.42,504.32,560,98.33,2.13,12.68,1084.92,-1.32,On-Time
+SHP-21154,Kolkata-Patna,Road,FastTrack Express,21.75,313.5,350,101.89,6.46,13.51,1197.08,1.51,Delayed
+SHP-21155,Hyderabad-Pune,Rail,VRL Freight,20.2,240.88,560,102.83,3.53,12.92,1147.38,-1.08,On-Time
+SHP-21156,Delhi-Jaipur,Road,SafeXpress,6.73,363.71,580,106.6,2.44,13.05,1522.43,1.05,Delayed
+SHP-21157,Delhi-Jaipur,Road,BlueDart Logistics,23.11,432.52,580,99.08,1.69,15.3,1670.73,3.3,Delayed
+SHP-21158,Hyderabad-Pune,Road,FastTrack Express,25.24,426.56,310,97.05,3.84,9.53,1204.06,-2.47,On-Time
+SHP-21159,Kolkata-Patna,Road,FastTrack Express,6.76,616.96,580,100.12,3.48,12.48,1595.79,0.48,Delayed
+SHP-21160,Bengaluru-Chennai,Road,FastTrack Express,7.49,571.99,280,94.37,1.62,6.6,992.22,-5.4,On-Time
+SHP-21161,Mumbai-Surat,Rail,FastTrack Express,4.33,369.8,280,105.34,2.49,4.81,696.24,-9.19,On-Time
+SHP-21162,Mumbai-Surat,Road,SafeXpress,24.09,533.03,280,103.81,2.52,7.38,1207.07,-4.62,On-Time
+SHP-21163,Bengaluru-Chennai,Road,BlueDart Logistics,15.93,364.98,280,101.93,6.03,14.82,1031.86,2.82,Delayed
+SHP-21164,Bengaluru-Chennai,Rail,BlueDart Logistics,12.48,604.76,280,104.17,3.7,11.32,924.73,-2.68,On-Time
+SHP-21165,Bengaluru-Chennai,Road,VRL Freight,6.28,339.8,560,103.9,1.03,11.79,1382.41,-0.21,On-Time
+SHP-21166,Delhi-Jaipur,Rail,VRL Freight,6.41,691.3,580,107.89,1.98,12.95,1200.52,-1.05,On-Time
+SHP-21167,Bengaluru-Chennai,Road,VRL Freight,14.78,567.86,280,105.91,5.62,13.19,1112.67,1.19,Delayed
+SHP-21168,Delhi-Jaipur,Road,BlueDart Logistics,6.25,489.07,280,95.8,1.67,9.13,971.6,-2.87,On-Time
+SHP-21169,Hyderabad-Pune,Rail,FastTrack Express,4.78,426.55,310,100.98,1.09,5.86,800.0,-8.14,On-Time
+SHP-21170,Bengaluru-Chennai,Air,BlueDart Logistics,5.75,424.08,580,96.43,10.38,10.24,3595.99,6.24,Delayed
+SHP-21171,Bengaluru-Chennai,Road,FastTrack Express,16.69,432.01,310,104.09,3.92,7.94,1125.07,-4.06,On-Time
+SHP-21172,Bengaluru-Chennai,Road,SafeXpress,18.64,502.78,580,105.58,1.49,14.82,1695.93,2.82,Delayed
+SHP-21173,Mumbai-Surat,Sea,FastTrack Express,27.04,393.96,560,107.94,1.48,23.98,1028.78,-4.02,On-Time
+SHP-21174,Kolkata-Patna,Rail,SafeXpress,8.28,359.52,580,98.58,1.89,12.13,1096.66,-1.87,On-Time
+SHP-21175,Mumbai-Surat,Air,BlueDart Logistics,9.25,613.76,560,98.46,1.76,1.63,3647.98,-2.37,On-Time
+SHP-21176,Delhi-Jaipur,Air,SafeXpress,11.28,437.76,350,96.96,3.87,4.18,2433.93,0.18,Delayed
+SHP-21177,Mumbai-Surat,Road,SafeXpress,5.27,206.8,580,106.34,6.78,18.03,1403.09,6.03,Delayed
+SHP-21178,Delhi-Jaipur,Road,BlueDart Logistics,16.19,256.38,580,92.59,1.6,12.33,1501.8,0.33,Delayed
+SHP-21179,Bengaluru-Chennai,Rail,BlueDart Logistics,7.27,549.17,350,107.42,2.53,9.28,879.94,-4.72,On-Time
+SHP-21180,Kolkata-Patna,Road,FastTrack Express,19.08,407.95,560,93.69,1.37,12.78,1630.04,0.78,Delayed
+SHP-21181,Bengaluru-Chennai,Air,BlueDart Logistics,6.2,498.53,280,94.6,2.83,2.29,2008.69,-1.71,On-Time
+SHP-21182,Kolkata-Patna,Road,VRL Freight,11.55,448.31,560,104.37,3.15,18.02,1511.73,6.02,Delayed
+SHP-21183,Delhi-Jaipur,Rail,VRL Freight,9.01,559.15,280,107.01,5.09,9.58,865.58,-4.42,On-Time
+SHP-21184,Mumbai-Surat,Air,VRL Freight,30.06,456.41,310,101.65,2.16,1.5,2457.01,-2.5,On-Time
+SHP-21185,Kolkata-Patna,Road,BlueDart Logistics,3.89,531.37,280,97.4,8.24,13.54,943.0,1.54,Delayed
+SHP-21186,Bengaluru-Chennai,Road,FastTrack Express,10.91,266.5,560,98.94,3.46,16.72,1425.9,4.72,Delayed
+SHP-21187,Mumbai-Surat,Road,FastTrack Express,9.55,452.48,310,96.22,2.68,11.93,1039.62,-0.07,On-Time
+SHP-21188,Delhi-Jaipur,Road,FastTrack Express,8.77,364.42,350,98.76,4.42,14.1,1077.08,2.1,Delayed
+SHP-21189,Delhi-Jaipur,Rail,BlueDart Logistics,2.87,265.94,280,97.99,4.06,9.23,609.89,-4.77,On-Time
+SHP-21190,Mumbai-Surat,Rail,VRL Freight,11.96,418.48,280,99.76,5.95,11.25,795.42,-2.75,On-Time
+SHP-21191,Bengaluru-Chennai,Rail,FastTrack Express,23.81,583.35,560,95.2,2.2,12.02,1314.93,-1.98,On-Time
+SHP-21192,Mumbai-Surat,Air,FastTrack Express,26.14,560.18,560,96.5,4.77,3.86,3785.96,-0.14,On-Time
+SHP-21193,Delhi-Jaipur,Road,FastTrack Express,3.62,523.63,280,95.35,4.49,12.6,920.69,0.6,Delayed
+SHP-21194,Bengaluru-Chennai,Air,FastTrack Express,14.67,350.11,350,103.61,1.09,1.52,2459.62,-2.48,On-Time
+SHP-21195,Bengaluru-Chennai,Road,VRL Freight,8.49,472.6,310,92.08,16.28,22.73,989.42,10.73,Delayed
+SHP-21196,Bengaluru-Chennai,Road,FastTrack Express,19.43,325.91,350,92.7,6.98,13.16,1173.99,1.16,Delayed
+SHP-21197,Hyderabad-Pune,Air,FastTrack Express,12.55,379.83,280,105.51,8.21,7.8,2040.5,3.8,Delayed
+SHP-21198,Mumbai-Surat,Sea,SafeXpress,5.48,690.33,310,99.91,8.31,21.46,804.77,-6.54,On-Time
+SHP-21199,Delhi-Jaipur,Road,BlueDart Logistics,4.92,311.67,280,103.49,1.87,10.55,892.31,-1.45,On-Time
